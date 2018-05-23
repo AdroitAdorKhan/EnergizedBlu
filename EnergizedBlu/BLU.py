@@ -5,7 +5,7 @@
 # Copyright (c) 2018 games195 <games195dev@gmail.com>. Licensed under MIT License.
 # Thanks to @games195 for this amazing script.
 
-import urllib.request
+import urllib
 import datetime
 import os
 
