@@ -10,7 +10,7 @@ import datetime
 import os
 import time
 
-File = 'energized/EnergizedBlu'
+File = 'energized/blu'
 List = []
 # Thanks to all maintainers of hosts lists.
 Sources = [
