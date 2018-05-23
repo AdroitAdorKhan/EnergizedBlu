@@ -16,11 +16,8 @@ List = []
 Sources = [
 	'https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedHosts',
 	'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts',
-	'https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt',
+	'http://someonewhocares.org/hosts/zero/hosts',
 	'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt',
-	'https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt',
-	'https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt',
-	'https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt',
 	'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts',
 	'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts',
 	'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts',
@@ -32,6 +29,9 @@ Sources = [
 	'https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/AdguardMobileSpyware.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/EasyPrivacySpecific.txt',
+	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEAds.txt',
+	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEMalvertising.txt',
+    'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEMalware.txt',
 	'https://hblock.molinero.xyz/hosts'
 ]
 
@@ -54,7 +54,7 @@ for Link in Sources:
 print('[+] Removing duplicates and sorting...')
 List = sorted(list(set(List)))
 print('[+] Applying whitelist...')
-r = urllib.urlopen('https://gist.githubusercontent.com/games195/fb3c38df42faa7468e25dc7a1c46e89e/raw/whitelist_hosts.txt')
+r = urllib.urlopen('https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/whitelist')
 Whitelist = r.readlines()
 Whitelist = [x.decode('utf-8') for x in Whitelist]
 Whitelist = [x.strip() for x in Whitelist]
