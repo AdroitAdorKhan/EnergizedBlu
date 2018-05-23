@@ -17,8 +17,10 @@ Sources = [
 	'https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedHosts',
 	'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/data/someonewhocares.org/hosts',
-	#'https://hblock.molinero.xyz/hosts',
+	'https://hblock.molinero.xyz/hosts',
 	'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt',
+	'https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts',
+	'https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt',
 	'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts',
 	'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts',
 	'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts',
@@ -27,12 +29,14 @@ Sources = [
 	'https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts',
 	'https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/Spam404.txt',
+	'https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS',
 	'https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/AdguardMobileSpyware.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/EasyPrivacySpecific.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEAds.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEMalvertising.txt',
-    'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEMalware.txt'
+    'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEMalware.txt',
+	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/Wally3K_Blacklist.txt'
 ]
 
 for Link in Sources:
