@@ -5,7 +5,11 @@
 Lightweight version of [Energized](https://github.com/AdroitAdorKhan/Energized) Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Which will be helpful for lower partitioned devices.
 
 * Last Updated: **May 23, 2018**.
-* Total Entries: **66796**
+* Total Entries: **66,796**
+
+## Source
+
+### [RAW SOURCE](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/EnergizedBlu) | Server (WIP)
 
 ## Maintainer
 
