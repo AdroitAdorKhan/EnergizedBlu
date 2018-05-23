@@ -16,7 +16,22 @@ List = []
 Sources = [
 	'https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedHosts',
 	'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts',
-	'http://someonewhocares.org/hosts/zero/',
+	'https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt',
+	'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt',
+	'https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt',
+	'https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt',
+	'https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt',
+	'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts',
+	'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts',
+	'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts',
+	'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts',
+	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/ZeusTracker.txt',
+	'https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts',
+	'https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser',
+	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/Spam404.txt',
+	'https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt',
+	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/AdguardMobileSpyware.txt',
+	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/EasyPrivacySpecific.txt',
 	'https://hblock.molinero.xyz/hosts'
 ]
 
