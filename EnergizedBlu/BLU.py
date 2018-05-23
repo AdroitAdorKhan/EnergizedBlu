@@ -25,7 +25,7 @@ for Link in Sources:
 		print('[+] Retrieving list from: {}'.format(Link))
 		r = urllib.urlopen(Link)
 		Host = r.readlines()
-		Host = [x.decode('utf-8') for x in Host]
+		Host = [x.decode('UTF-8') for x in Host]
 		Host = [x.strip() for x in Host]
 		Host = [z for z in Host if z != '' and z[0] != '#']
 		Host = [h.split()[1] for h in Host if h.split()[0] in ['0.0.0.0', '127.0.0.1']]
