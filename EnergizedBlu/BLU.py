@@ -22,7 +22,7 @@ Sources = [
 for Link in Sources:
 	try:
 		print('[+] Retrieving list from: {}'.format(Link))
-		r = urllib.request.urlopen(Link)
+		r = urllib.urlopen(Link)
 		Host = r.readlines()
 		Host = [x.decode('utf-8') for x in Host]
 		Host = [x.strip() for x in Host]
@@ -38,7 +38,7 @@ for Link in Sources:
 print('[+] Removing duplicates and sorting...')
 List = sorted(list(set(List)))
 print('[+] Applying whitelist...')
-r = urllib.request.urlopen('https://gist.githubusercontent.com/games195/fb3c38df42faa7468e25dc7a1c46e89e/raw/whitelist_hosts.txt')
+r = urllib.urlopen('https://gist.githubusercontent.com/games195/fb3c38df42faa7468e25dc7a1c46e89e/raw/whitelist_hosts.txt')
 Whitelist = r.readlines()
 Whitelist = [x.decode('utf-8') for x in Whitelist]
 Whitelist = [x.strip() for x in Whitelist]
