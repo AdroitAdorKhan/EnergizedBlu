@@ -9,7 +9,7 @@ Lightweight version of [Energized](https://github.com/AdroitAdorKhan/Energized) 
 
 ## Source
 
-### [RAW SOURCE](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/EnergizedBlu) | Server (WIP)
+### [RAW SOURCE](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/EnergizedBlu) | [Server] (http://adroit.heliohost.org/energized/blu)
 
 ## Maintainer
 
