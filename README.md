@@ -4,12 +4,18 @@
 
 Lightweight version of [Energized](https://github.com/AdroitAdorKhan/Energized) Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Which will be helpful for lower partitioned devices.
 
+<<<<<<< HEAD
 * Last Updated: **May 26, 2018**.
 * Total Entries: **137,263**
+=======
+* Last Updated: **May 25, 2018**.
+
+* Total Entries: **135,558**
+>>>>>>> c1376785aee339fca78417e33821673262b1048a
 
 ## Source
 
-### [RAW SOURCE](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu) | [HOST SERVER](http://adroit.heliohost.org/energized/blu)
+### [RAW SOURCE](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/EnergizedBlu) | [HOST SERVER](http://adroit.heliohost.org/energized/blu)
 
 ## Maintainer
 
@@ -37,7 +43,14 @@ Lightweight version of [Energized](https://github.com/AdroitAdorKhan/Energized) 
 
 - [x] No extra abracadabra! 
 
+## DISCLAIMER
+
+```
+This is an experimental project, targeting to get the best out of a compact hosts file. If it breaks your Internet Usage Experience, I won't be responsible. Open an issue and let me help you.
+```
+
 ---
+
 <p align="center">A project by <a href="https://github.com/AdroitAdorKhan" target="_blank">Ador</a> with ❤<p>
 
 <p align="center"><a href="https://saythanks.io/to/AdroitAdorKhan" target="_blank"><img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg"></a><p>
