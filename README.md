@@ -1,44 +1,59 @@
-![Cover](https://ador.chorompotro.com/energized_blu_cover.svg)
+￼
 
-# Energized Blu - Hosts ⚡ [![Codenvy](https://img.shields.io/badge/Cloud-CodeAnyWhere-7F3F97.svg)](https://codeanywhere.com/) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/AdroitAdorKhan/Energized/blob/master/LICENSE)
+Energized Blu - Hosts ⚡￼
 
-Lightweight version of [Energized](https://github.com/AdroitAdorKhan/Energized) Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Which will be helpful for lower partitioned devices.
+￼
 
-* Last Updated: **May 23, 2018**.
-* Total Entries: **135558**
+Lightweight version of Energized Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Which will be helpful for lower partitioned devices.
+• Last Updated: May 25, 2018 .
+• Total Entries: 136287
 
-## Source
+Source
 
-### [RAW SOURCE](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu) | [HOST SERVER](http://adroit.heliohost.org/energized/blu)
+RAW SOURCE | HOST SERVER
 
-## Maintainer
+Maintainer
 
-### **Nayem Ador** - [Facebook](https://facebook.com/adroitadorkhan) | [Twitter](https://twitter.com/adroitadorkhan) | [Telegram](https://t.me/adroitadorkhan)
+Nayem Ador - Facebook | Twitter | Telegram
 
-## Web & Extras
+Web & Extras
 
-### [Website](https://ador.chorompotro.com/)
+Website
 
-### Features
+Features
+• 
+[x] Based on Hosts file, all the bad stuff blocked with 0.0.0.0
 
-- [x] Based on [Hosts](http://lmgtfy.com/?q=what+is+hosts+file) file, all the bad stuff blocked with [0.0.0.0](http://lmgtfy.com/?q=what+is+0.0.0.0)
+• 
+[x] Compatible with all devices, regardless of OS.
 
-- [x] Compatible with all devices, regardless of OS.
+• 
+[x] Strictly blocks all advertisements, malwares, spams, statistics, trackers on both web browsing and applications.
 
-- [x] Strictly blocks all advertisements, malwares, spams, statistics, trackers on both web browsing and applications.
+• 
+[x] YouTube, Spotify, UC and Shareit Ads Blocking.
 
-- [x] YouTube, Spotify, UC and Shareit Ads Blocking.
+• 
+[x] Reduces page loading times.
 
-- [x] Reduces page loading times.
+• 
+[x] Reduces data consumptions. Saves data expense.
 
-- [x] Reduces data consumptions. Saves data expense.
+• 
+[x] Increases privacy.
 
-- [x] Increases privacy.
+• 
+[x] No extra abracadabra!
 
-- [x] No extra abracadabra! 
+DISCLAIMER
 
----
-<p align="center">A project by <a href="https://github.com/AdroitAdorKhan" target="_blank">Ador</a> with ❤<p>
+This is just an experimental project targeting to get the best out of a host file, compacting its size and resources. It will take a bit of time to make things more stable. Till then, I won't be responsible, if it breaks your internet usage experience. Stay Energized!
 
-<p align="center"><a href="https://saythanks.io/to/AdroitAdorKhan" target="_blank"><img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg"></a><p>
+
+
+
+$
+A project by Ador with ❤
+
+￼
 
