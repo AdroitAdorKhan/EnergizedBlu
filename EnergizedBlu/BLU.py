@@ -36,7 +36,8 @@ Sources = [
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEAds.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEMalvertising.txt',
         'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEMalware.txt',
-	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/Wally3K_Blacklist.txt'
+	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/Wally3K_Blacklist.txt',
+  'https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt'
 ]
 
 for Link in Sources:
