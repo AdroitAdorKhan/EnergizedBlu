@@ -3,11 +3,11 @@
 # https://ador.chorompotro.com
 
 # Energized Blu - Lightweight Energized Protection.
-# Version: 18.05.145
+# Version: 18.05.146
 # Project Git: https://github.com/EnergizedProtection/EnergizedBlu
 # RAW Source: https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/EnergizedBlu
-# Last updated: Fri, 25 May 18 18:24:54
-# Total Domains: 137263
+# Last updated: Sat, 26 May 18 04:00:29
+# Total Domains: 137270
 
 
 # -================-Maintainer-================-
@@ -12238,6 +12238,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adinterax.cnet.com.edgesuite.net
 0.0.0.0 adinterax.com
 0.0.0.0 adinvigorate.com
+0.0.0.0 adiode.com
 0.0.0.0 adip.ly
 0.0.0.0 adipex.1.p2l.info
 0.0.0.0 adipex.24sws.ws
@@ -25707,8 +25708,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 baronsoffers.com
 0.0.0.0 baroulltinazobe.com
 0.0.0.0 barpe.ru
+0.0.0.0 barra.iol.pt
 0.0.0.0 barraien.com
 0.0.0.0 barrainformativa.com
+0.0.0.0 barranew.iol.pt
 0.0.0.0 barravips.com.br
 0.0.0.0 barreltour.com
 0.0.0.0 barrettatile.com
@@ -63461,6 +63464,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iinkhwsh.bid
 0.0.0.0 iinteractmarketing.com.au
 0.0.0.0 iiopwcmdp.fgppchg.fgpp.com
+0.0.0.0 iipivevueme.com
 0.0.0.0 iipkiyju.bid
 0.0.0.0 iis1.deliver.ifeng.com
 0.0.0.0 iis3g.deliver.ifeng.com
@@ -102181,6 +102185,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sciamcom.112.2o7.net
 0.0.0.0 sciamglobal.112.2o7.net
 0.0.0.0 scibich.com
+0.0.0.0 science.jburroughs.org
 0.0.0.0 sciencerevenue.com
 0.0.0.0 scienceworldreport.us.intellitxt.com
 0.0.0.0 scientiamobile.com
@@ -122099,6 +122104,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vnumedia04.webtrekk.net
 0.0.0.0 vnunet.uk.intellitxt.com
 0.0.0.0 vnyginzinvmq.com
+0.0.0.0 vnzlgmfd.com
 0.0.0.0 vo6vxeea2ovzuyo.review
 0.0.0.0 vocal-mess.com
 0.0.0.0 vocational-training.us
@@ -124781,6 +124787,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wii.all-stars.pl
 0.0.0.0 wiicjajh.com
 0.0.0.0 wijczxvihjyu.com
+0.0.0.0 wijjidqydgsxas.com
 0.0.0.0 wijzeman.sbhmn-miner.com
 0.0.0.0 wikaba.com
 0.0.0.0 wikes.20fr.com
