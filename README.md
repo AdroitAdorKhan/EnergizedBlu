@@ -5,7 +5,7 @@
 Lightweight version of [Energized](https://github.com/AdroitAdorKhan/Energized) Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Which will be helpful for lower partitioned devices.
 
 * Last Updated: **May 26, 2018**.
-* Total Entries: **137,270**
+* Total Entries: **137,263**
 
 ## Source
 
@@ -40,7 +40,7 @@ Lightweight version of [Energized](https://github.com/AdroitAdorKhan/Energized) 
 ## DISCLAIMER
 
 ```
-This is an experimental project, targeting to get the best out of a compact hosts file. If it breaks your Internet Usage Experience, I won't be responsible. Open an issue and let me help you.
+This is an experimental project, aiming to get the best out of a compact hosts file. If it breaks your Internet Usage Experience, I won't be responsible. Open an issue and let me help you.
 ```
 
 ---
