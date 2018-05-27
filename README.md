@@ -2,7 +2,7 @@
 
 # Energized Blu - Hosts ⚡ [![Codenvy](https://img.shields.io/badge/Cloud-CodeAnyWhere-7F3F97.svg)](https://codeanywhere.com/) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/AdroitAdorKhan/Energized/blob/master/LICENSE)
 
-Lightweight version of [Energized](https://github.com/AdroitAdorKhan/Energized) Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Which will be helpful for lower partitioned devices.
+Lightweight version of [Energized](https://github.com/AdroitAdorKhan/Energized) Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Hopefully, this will cover most of the bad sites and give you the best protection in a compact size ever!
 
 * Last Updated: **May 27, 2018**.
 * Total Entries: **137,353**
@@ -25,7 +25,7 @@ Lightweight version of [Energized](https://github.com/AdroitAdorKhan/Energized) 
 
 - [x] Compatible with all devices, regardless of OS.
 
-- [x] Strictly blocks all advertisements, malwares, spams, statistics, trackers on both web browsing and applications.
+- [x] Strictly blocks advertisements, malwares, spams, statistics, trackers on both web browsing and applications.
 
 - [x] YouTube, Spotify, UC and Shareit Ads Blocking.
 
@@ -36,12 +36,6 @@ Lightweight version of [Energized](https://github.com/AdroitAdorKhan/Energized) 
 - [x] Increases privacy.
 
 - [x] No extra abracadabra! 
-
-## DISCLAIMER
-
-```
-This is an experimental project, aiming to get the best out of a compact hosts file. If it breaks your Internet Usage Experience, I won't be responsible. Open an issue and let me help you.
-```
 
 ---
 
