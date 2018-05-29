@@ -5,9 +5,9 @@
 # Energized Blu - Lightweight Energized Protection.
 # Version: 18.05.149
 # Project Git: https://github.com/EnergizedProtection/EnergizedBlu
-# RAW Source: https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/EnergizedBlu
-# Last updated: Tue, 29 May 18 14:52:01
-# Total Domains: 137294
+# RAW Source: https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu
+# Last updated: Tue, 29 May 18 15:29:16
+# Total Domains: 137295
 
 
 # -================-Maintainer-================-
@@ -55486,6 +55486,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gclabrelscon.net
 0.0.0.0 gclass.it
 0.0.0.0 gclavarino.000webhostapp.com
+0.0.0.0 gcmapi.wshareit.com
 0.0.0.0 gconsolidationserv.com
 0.0.0.0 gcounter.hosting4u.net
 0.0.0.0 gcpdata.telegraph.co.uk
