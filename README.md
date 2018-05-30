@@ -9,7 +9,11 @@ Lightweight version of [Energized](https://github.com/AdroitAdorKhan/Energized) 
 
 ## Source
 
-### [RAW SOURCE](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu) | [HOST SERVER](http://adroit.heliohost.org/energized/blu)
+### [RAW SOURCE](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu) | [MIRROR](http://adroit.heliohost.org/energized/blu)
+
+## Flashable ZIP
+
+### [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu.zip) | [MIRROR](http://adroit.heliohost.org/energized/blu.zip)
 
 ## Maintainer
 
