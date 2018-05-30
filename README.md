@@ -5,11 +5,15 @@
 Go version of [Energized](https://github.com/AdroitAdorKhan/Energized) Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Hopefully, this will cover most of the bad sites and give you the best protection in a compact size ever!
 
 * Last Updated: **May 30, 2018**.
-* Total Entries: **137,399**
+* Total Entries: **137,309**
 
 ## Source
 
 ### [RAW SOURCE](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu) | [HOST SERVER](http://adroit.heliohost.org/energized/blu)
+
+## Flashable ZIP
+
+### [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu.zip) | [MIRROR](http://adroit.heliohost.org/energized/blu.zip)
 
 ## Maintainer
 
