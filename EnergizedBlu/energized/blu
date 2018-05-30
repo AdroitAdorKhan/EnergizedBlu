@@ -6,8 +6,8 @@
 # Version: 18.05.150
 # Project Git: https://github.com/EnergizedProtection/EnergizedBlu
 # RAW Source: https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu
-# Last updated: Wed, 30 May 18 06:28:52
-# Total Domains: 137307
+# Last updated: Wed, 30 May 18 14:18:45
+# Total Domains: 137399
 
 
 # -================-Maintainer-================-
@@ -18699,6 +18699,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 akamai-san8.exacttarget.com
 0.0.0.0 akamai-san9.exacttarget.com
 0.0.0.0 akamai-sanNestle.exacttarget.com
+0.0.0.0 akamai-sannestle.exacttarget.com
 0.0.0.0 akamai.invitemedia.com
 0.0.0.0 akamai.mathtag.com
 0.0.0.0 akamai.smartadserver.com
@@ -22105,7 +22106,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aprelite.com
 0.0.0.0 aprendainglesya.com.ve
 0.0.0.0 apricorni.vardtorg.ru
-0.0.0.0 april-js.github.io
 0.0.0.0 april29-disp-download.com
 0.0.0.0 aprilbrinson.com
 0.0.0.0 aprilcleanb.com
@@ -24737,6 +24737,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 balitouroffice.com
 0.0.0.0 baliundangan.id
 0.0.0.0 baliwag.xyz
+0.0.0.0 balkanbet.co.rs
 0.0.0.0 balkanfarma.org
 0.0.0.0 balkanfarma.ru
 0.0.0.0 ball.i-kiddi.co.uk
@@ -27000,6 +27001,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 betcostarica.ag
 0.0.0.0 betcris.com
 0.0.0.0 betdaq.com
+0.0.0.0 betdna.com
 0.0.0.0 betdon.com
 0.0.0.0 betdsi.eu
 0.0.0.0 betelephant.com
@@ -27075,6 +27077,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 betrally.com
 0.0.0.0 betrebels.com
 0.0.0.0 betredkings.com
+0.0.0.0 betregal.com
 0.0.0.0 betrevolution.com
 0.0.0.0 betrockit.com
 0.0.0.0 betrogers.com
@@ -27613,6 +27616,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 bingeeatingquiz.com
 0.0.0.0 binglbalts.com
 0.0.0.0 bingo-online.petrovka.info
+0.0.0.0 bingo.vernons.com
+0.0.0.0 bingo.williamhill.com
 0.0.0.0 bingo4affiliates.com
 0.0.0.0 bingo8888.com
 0.0.0.0 bingoblitzcheats.com
@@ -28375,7 +28380,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bluandi.com
 0.0.0.0 bluazard.net
 0.0.0.0 bludomain7.net
-0.0.0.0 blue-js.github.io
 0.0.0.0 blue-pill-shop.com
 0.0.0.0 blue-square.biz
 0.0.0.0 blue.sexer.com
@@ -31705,6 +31709,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 casino-online.100gal.net
 0.0.0.0 casino-slot.org
 0.0.0.0 casino-zilla.com
+0.0.0.0 casino.betway.com
+0.0.0.0 casino.vernons.com
+0.0.0.0 casino.williamhill.com
 0.0.0.0 casino770.com
 0.0.0.0 casino79.net
 0.0.0.0 casinoasia.org
@@ -40523,6 +40530,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dansk-sex.dk
 0.0.0.0 danskedamer.dk
 0.0.0.0 danskeonlineb.co.uk
+0.0.0.0 danskespil.dk
 0.0.0.0 dante2007.com
 0.0.0.0 dantech-am.com.br
 0.0.0.0 dantianclinic.com
@@ -42996,7 +43004,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 dmgexalrtsqrvx.com
 0.0.0.0 dmitrievskiy.ru
-0.0.0.0 dmitrovna.github.io
 0.0.0.0 dmitted.info
 0.0.0.0 dmjcabavsraf.com
 0.0.0.0 dmlesitesesistemas.com.br
@@ -45250,7 +45257,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dyndns.oni.pt
 0.0.0.0 dyntraq.mtree.com
 0.0.0.0 dyntrk.com
-0.0.0.0 dynya-may.github.io
 0.0.0.0 dyoravdkiavfkbkx.pw
 0.0.0.0 dyrxq.rfskbylbsf.xyz
 0.0.0.0 dyryta.ru
@@ -47176,9 +47182,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 en.adtech.info
 0.0.0.0 en.altezza.travel
 0.0.0.0 en.avatarstinc.com
+0.0.0.0 en.betclic.com
 0.0.0.0 en.certomni.net
 0.0.0.0 en.cookiescript.info
 0.0.0.0 en.dd.blueline.be
+0.0.0.0 en.expekt.com
 0.0.0.0 en.likefever.org
 0.0.0.0 en.meow-share.com
 0.0.0.0 en.minormetal.cn
@@ -47236,6 +47244,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 energy-fizz.com
 0.0.0.0 energy-loot.com
 0.0.0.0 energy-ua.com
+0.0.0.0 energybet.com
 0.0.0.0 energydiet-info.ru
 0.0.0.0 energydiet24.ru
 0.0.0.0 energyplanet.pl
@@ -54920,6 +54929,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 games.movies-mania.com
 0.0.0.0 games.myfastappz.com
 0.0.0.0 games.superappbox.com
+0.0.0.0 games.williamhill.com
 0.0.0.0 games15.eexweb.com
 0.0.0.0 games4u.ws
 0.0.0.0 gamesaccess2k.com
@@ -56785,6 +56795,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 global-promotions.internationalredirects.com
 0.0.0.0 global-smm.ru
 0.0.0.0 global-success-club.net
+0.0.0.0 global.138.com
 0.0.0.0 global.crypto.csgocpu.com
 0.0.0.0 global.ekmpinpoint.com
 0.0.0.0 global.exacttarget.com
@@ -57875,7 +57886,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 graft.monerise.com
 0.0.0.0 graftpool.ovh
 0.0.0.0 grahainterieur.com
-0.0.0.0 grahamdigital.com
 0.0.0.0 grahamsmithsurfboards.co.uk
 0.0.0.0 grainedesexe.com
 0.0.0.0 gram.mfdrums.com
@@ -65030,7 +65040,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 inmobisdk-a.akamaihd.net
 0.0.0.0 inmovemail.com.br
 0.0.0.0 inmrjokdxmkh.com
-0.0.0.0 inmu-kun.github.io
 0.0.0.0 innatek.com
 0.0.0.0 inndl.com
 0.0.0.0 inneedbd.com
@@ -67736,6 +67745,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 joiryda.info
 0.0.0.0 joivlw.gq
 0.0.0.0 jojilabola.com
+0.0.0.0 jojobet.com
 0.0.0.0 jojobet45.bid
 0.0.0.0 joke.sms.tagalog.sms13.de
 0.0.0.0 jokedollars.com
@@ -70256,6 +70266,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ksk-vuktil.ru
 0.0.0.0 kskhhsgcacaca.co.vu
 0.0.0.0 kslgvaexlw.com
+0.0.0.0 ksloibpah.com
 0.0.0.0 ksmodels.com
 0.0.0.0 ksnsse.com
 0.0.0.0 ksouyewwzudine.com
@@ -72488,6 +72499,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 liveadoptimizer.com
 0.0.0.0 liveadserver.net
 0.0.0.0 livebare.biz
+0.0.0.0 livebetting.bwin.com
 0.0.0.0 livebetting.com
 0.0.0.0 livebingo.com
 0.0.0.0 liveblondeporn.com
@@ -72499,6 +72511,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 livecams.nl
 0.0.0.0 livecams.rulen.de
 0.0.0.0 livecamstreams.com
+0.0.0.0 livecasino.betway.com
+0.0.0.0 livecasino.williamhill.com
 0.0.0.0 livechat.s3.amazonaws.com
 0.0.0.0 livechatpartner.com
 0.0.0.0 livecheat.com
@@ -74374,6 +74388,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.beacon.sina.com.cn
 0.0.0.0 m.benaughty.com
 0.0.0.0 m.biquge5200.cc
+0.0.0.0 m.boylesports.com
 0.0.0.0 m.bss.pandora.xiaomi.com
 0.0.0.0 m.burt.io
 0.0.0.0 m.cdn.mx1688.com.cn
@@ -74439,6 +74454,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.ishangtong.com
 0.0.0.0 m.jakc0.com
 0.0.0.0 m.jcwwxn.com
+0.0.0.0 m.jetbull.com
 0.0.0.0 m.jltdbyq.com
 0.0.0.0 m.joyxv.com
 0.0.0.0 m.jsqinvest.com
@@ -74507,6 +74523,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.sharpmobilemarketing.onlinetrafficresults.com
 0.0.0.0 m.shopathome.com
 0.0.0.0 m.simba.taobao.com
+0.0.0.0 m.skybet.com
 0.0.0.0 m.symac.cn
 0.0.0.0 m.symaw.cn
 0.0.0.0 m.tamilmalls.com
@@ -74910,6 +74927,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 macaisseepargne.com
 0.0.0.0 macallinecn.com
 0.0.0.0 macarier.review
+0.0.0.0 macau.williamhill.com
 0.0.0.0 macaubet.com
 0.0.0.0 macauslot.com
 0.0.0.0 macaxpower.com.br
@@ -75628,7 +75646,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 marcelovianna.net
 0.0.0.0 marceloyuvone.com.ar
 0.0.0.0 marcenarianagy.com.br
-0.0.0.0 march-js.github.io
 0.0.0.0 marchen-toy.co.jp
 0.0.0.0 marcheshareplace.it
 0.0.0.0 marchex.com
@@ -75823,7 +75840,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 marsisotel.com
 0.0.0.0 marsoffset.goforandroid.com
 0.0.0.0 marstorecoid.masterweb.id
-0.0.0.0 marta-js.github.io
 0.0.0.0 martaabellan.com
 0.0.0.0 martallonch.com
 0.0.0.0 marte.planetarium.com.br
@@ -75862,7 +75878,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 marymodel.com
 0.0.0.0 maryscott.angelcities.com
 0.0.0.0 marzsgroup.com.pk
-0.0.0.0 mas-onjs.github.io
 0.0.0.0 mas-sdk.amazon-adsystem.com
 0.0.0.0 mas-sexo.com
 0.0.0.0 mas.nth.ch
@@ -76217,7 +76232,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 maxxxsex.com
 0.0.0.0 maxymiser.com
 0.0.0.0 maxymiser.net
-0.0.0.0 may-js.github.io
 0.0.0.0 may.ancestrybloodhound.mobi
 0.0.0.0 maya18.com
 0.0.0.0 mayansports.eu
@@ -78587,7 +78601,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mjckfsgogzcd.com
 0.0.0.0 mjfuntime.co.uk
 0.0.0.0 mjhkj8.u5a.wentserver.com
-0.0.0.0 mjija.github.io
 0.0.0.0 mjjsoluciones.com
 0.0.0.0 mjlkhnizufhmrt.bid
 0.0.0.0 mjpianoyn.com
@@ -80647,7 +80660,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 my-cams.net
 0.0.0.0 my-cash-bot.co
 0.0.0.0 my-cdn.effectivemeasure.net
-0.0.0.0 my-deltaplan.github.io
 0.0.0.0 my-dessous-shop.de
 0.0.0.0 my-ethwallet.com
 0.0.0.0 my-facial.com
@@ -80768,6 +80780,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 myblogregistercm.tk
 0.0.0.0 mybonpland.com
 0.0.0.0 myboobies.net
+0.0.0.0 mybookie.ag
 0.0.0.0 myboxgo.com
 0.0.0.0 mybuys.com
 0.0.0.0 mybuzzmonitor.com
@@ -86575,7 +86588,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 oguorftbvegb.com
 0.0.0.0 oguyajnmnd.com
 0.0.0.0 oh.5.p2l.info
-0.0.0.0 ohac.github.io
 0.0.0.0 ohecnqpldvuw.com
 0.0.0.0 ohfaxtzzgetrberhiwjp.ahdaaf.org
 0.0.0.0 ohfgs.jandrheatingandcooling.com
@@ -86781,6 +86793,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 olahecub.easyfreehosting.com
 0.0.0.0 olayojplg.bid
 0.0.0.0 olazspdsld.bid
+0.0.0.0 olcqpdykme.com
 0.0.0.0 olctpejrnnfh.com
 0.0.0.0 old-darkroast.adknowledge.com
 0.0.0.0 old-rock.com
@@ -87058,7 +87071,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 one-gear.com
 0.0.0.0 one-handed.com
 0.0.0.0 one-image.pw
-0.0.0.0 one-jj.github.io
 0.0.0.0 one-klick.ru
 0.0.0.0 one-picture.net
 0.0.0.0 one-umnik.ru
@@ -87470,6 +87482,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onmnkdzpmvxfab.bid
 0.0.0.0 onmobile.com
 0.0.0.0 onmops.com
+0.0.0.0 onndvfcettwt.com
 0.0.0.0 onocollect.247realmedia.com
 0.0.0.0 onomovie.xyz
 0.0.0.0 onrampadvertising.com
@@ -91825,7 +91838,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pizazzint.com
 0.0.0.0 pizda.lol
 0.0.0.0 pizdopletka.club
-0.0.0.0 pizz-tuna.github.io
 0.0.0.0 pizza-imperia.com
 0.0.0.0 pizza-tycoon.com
 0.0.0.0 pizza.com.my
@@ -92268,6 +92280,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 plumsoftware.co.uk
 0.0.0.0 plunderbunnies.com
 0.0.0.0 pluralismus.ru
+0.0.0.0 plus.betway.com
 0.0.0.0 plus.iwon.com
 0.0.0.0 plus.link4link.com
 0.0.0.0 plus.pornoshara.tv
@@ -92597,7 +92610,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 pokemonzestaw.pl
 0.0.0.0 poker-games.e-online-poker-4u.net
 0.0.0.0 poker.be.tc
+0.0.0.0 poker.betway.com
 0.0.0.0 poker.cm
+0.0.0.0 poker.williamhill.com
 0.0.0.0 pokerdassi360.com
 0.0.0.0 pokerimaa.com
 0.0.0.0 pokerlivestar.de
@@ -96341,6 +96356,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qmginteractive.com
 0.0.0.0 qmisgnkw.bid
 0.0.0.0 qmjjvpoqhb.com
+0.0.0.0 qmotkiltrim.com
 0.0.0.0 qmutualportfolioacessment.000webhostapp.com
 0.0.0.0 qmutualportfolioffinancila.000webhostapp.com
 0.0.0.0 qmvzlx.com
@@ -98076,7 +98092,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 recycleind.com
 0.0.0.0 recyclersvoice.com
 0.0.0.0 red-download.pl
-0.0.0.0 red-js.github.io
 0.0.0.0 red-page.com
 0.0.0.0 red-pulse.tech
 0.0.0.0 red.ads.t-online.de
@@ -102008,6 +102023,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sbkcxjaktdv.bid
 0.0.0.0 sbkuytscekitph.bid
 0.0.0.0 sblcjzjp.com
+0.0.0.0 sblp.intertops.eu
 0.0.0.0 sblqlcjk.bid
 0.0.0.0 sbnationbidder-d.openx.net
 0.0.0.0 sbnc.hak.su
@@ -107953,6 +107969,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sport-video-obzor.ru
 0.0.0.0 sport.gov.mo
 0.0.0.0 sport.hudaem.ru
+0.0.0.0 sport.netbet.co.uk
 0.0.0.0 sport.phoenixsports.org
 0.0.0.0 sport.plumts.com
 0.0.0.0 sport.prf.at
@@ -107984,6 +108001,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 sports-offer.net
 0.0.0.0 sports-premiumblvd.com
 0.0.0.0 sports-supplements.us
+0.0.0.0 sports.betway.com
+0.0.0.0 sports.br.betboo.com
+0.0.0.0 sports.bwin.com
+0.0.0.0 sports.gamebookers.com
+0.0.0.0 sports.gentingcasino.com
 0.0.0.0 sports.ign.us.intellitxt.com
 0.0.0.0 sports.intertops.eu
 0.0.0.0 sports.magicred.com
@@ -107991,9 +108013,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 sports.partypoker.com
 0.0.0.0 sports.rightpundits.us.intellitxt.com
 0.0.0.0 sports.smartlivegaming.com
+0.0.0.0 sports.vernons.com
+0.0.0.0 sports.williamhill.com
 0.0.0.0 sports.winner.com
 0.0.0.0 sportsbet.co.za
 0.0.0.0 sportsbet.com.au
+0.0.0.0 sportsbet.io
 0.0.0.0 sportsbetting.ag
 0.0.0.0 sportsbetting.com.au
 0.0.0.0 sportsbettingaustralia.com
@@ -112641,7 +112666,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 techgadgets.in.intellitxt.com
 0.0.0.0 techgage.us.intellitxt.com
 0.0.0.0 techguy.us.intellitxt.com
-0.0.0.0 techhome-js.github.io
 0.0.0.0 techielab.co.uk
 0.0.0.0 techieprojects.com
 0.0.0.0 techietricks.net
@@ -113483,6 +113507,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thebestpsncodegenerator.com
 0.0.0.0 thebestselectiontgp.com
 0.0.0.0 thebetarena.com
+0.0.0.0 thebettingguy.co.uk
 0.0.0.0 thebflix.info
 0.0.0.0 thebigfourlive.com
 0.0.0.0 thebiggroup.in
@@ -114015,7 +114040,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 threadandmirror.com
 0.0.0.0 threadwatch.us.intellitxt.com
 0.0.0.0 threats.nwpc.safecart.com
-0.0.0.0 three-jj.github.io
 0.0.0.0 three381.com
 0.0.0.0 threekitty.com
 0.0.0.0 threepercenternation.com
@@ -115276,6 +115300,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tottaldomain.cn
 0.0.0.0 totu.info
 0.0.0.0 totvsaexihbe.com
+0.0.0.0 touayfftdwcd.com
 0.0.0.0 touch.media-serving.com
 0.0.0.0 touchads.com
 0.0.0.0 touchclarity.com
@@ -117941,7 +117966,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 twmvjfatla.com
 0.0.0.0 twnads.weather.ca
 0.0.0.0 twnrkedqefhv.com
-0.0.0.0 two-jj.github.io
 0.0.0.0 two.buson.in
 0.0.0.0 two.mp3mp4.com
 0.0.0.0 two.schuetttransport.com
@@ -120770,6 +120794,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 vegantravelshow.com
 0.0.0.0 veganvelocity.info
 0.0.0.0 vegas-1.xmrpool.net
+0.0.0.0 vegas.betway.com
+0.0.0.0 vegas.williamhill.com
 0.0.0.0 vegas2nite.com
 0.0.0.0 vegascosmetics.ru
 0.0.0.0 vegasheatx.com
@@ -124681,6 +124707,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 whyblocks.com
 0.0.0.0 whysoserius.club
 0.0.0.0 whzbmdeypkrb.com
+0.0.0.0 whzizteutx.com
 0.0.0.0 wi-fitechnology.uk.intellitxt.com
 0.0.0.0 wi.5.p2l.info
 0.0.0.0 wiadomoscix8.pl
@@ -126532,6 +126559,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wwgysckwouvzkm.bid
 0.0.0.0 wwhrlpoy.me
 0.0.0.0 wwin.ba
+0.0.0.0 wwin.com
 0.0.0.0 wwiqinsra.bid
 0.0.0.0 wwm24.de
 0.0.0.0 wwnlyzbedeum.com
@@ -126578,6 +126606,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.100dof.com
 0.0.0.0 www.101malls.com
 0.0.0.0 www.105vibe.com
+0.0.0.0 www.10bet.co.uk
 0.0.0.0 www.10bet.com
 0.0.0.0 www.10g.com.tr
 0.0.0.0 www.10luxury39.com
@@ -126592,6 +126621,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.123specialgifts.com
 0.0.0.0 www.123stat.com
 0.0.0.0 www.12bet.com
+0.0.0.0 www.12bet.uk
 0.0.0.0 www.1337bid.com
 0.0.0.0 www.138.com
 0.0.0.0 www.13903825045.com
@@ -126660,6 +126690,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.31d.net
 0.0.0.0 www.321cba.com
 0.0.0.0 www.32666099.com
+0.0.0.0 www.32red.com
 0.0.0.0 www.32redsport.com
 0.0.0.0 www.33544444.com
 0.0.0.0 www.3388pjdc.com
@@ -126803,6 +126834,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.acs3.com
 0.0.0.0 www.actiagroup.com
 0.0.0.0 www.action.ientry.net
+0.0.0.0 www.actionbets.com
 0.0.0.0 www.actiondesk.com
 0.0.0.0 www.actiononsports.com
 0.0.0.0 www.activedriver.com
@@ -126910,6 +126942,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.admin.iesnare.com
 0.0.0.0 www.adminder.com
 0.0.0.0 www.adminer.com
+0.0.0.0 www.admiralspot.com
 0.0.0.0 www.admixxer.com
 0.0.0.0 www.adnet.biz
 0.0.0.0 www.adnet.com
@@ -127151,6 +127184,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allstarsportsbook.com
 0.0.0.0 www.allyoubet.ag
 0.0.0.0 www.almondnetworks.com
+0.0.0.0 www.alohasportsbook.com
 0.0.0.0 www.alpha-assets.adcolony.com
 0.0.0.0 www.alphadraft.com
 0.0.0.0 www.alphamedical02.fr
@@ -127344,6 +127378,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ayehcleaners.com
 0.0.0.0 www.aymcsx.ru
 0.0.0.0 www.ayx.soundharborredirect.com
+0.0.0.0 www.azcasino.com
 0.0.0.0 www.azmsoft.com
 0.0.0.0 www.b-und-w.de
 0.0.0.0 www.b3d.com
@@ -127364,6 +127399,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.balkansteelie.com
 0.0.0.0 www.ballsack.org
 0.0.0.0 www.balook.com
+0.0.0.0 www.bamasportsbook.com
 0.0.0.0 www.bananacashback.com
 0.0.0.0 www.bananajackpot.com
 0.0.0.0 www.bananarepubic.com
@@ -127455,6 +127491,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bet2290.com
 0.0.0.0 www.bet2875.com
 0.0.0.0 www.bet2earn.net
+0.0.0.0 www.bet2win.ag
 0.0.0.0 www.bet3000.com
 0.0.0.0 www.bet33.com
 0.0.0.0 www.bet365.com
@@ -127480,9 +127517,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.betcityru.com
 0.0.0.0 www.betclic.com
 0.0.0.0 www.betclock.com
+0.0.0.0 www.betcoin.ag
 0.0.0.0 www.betcostarica.ag
 0.0.0.0 www.betcounter.com
 0.0.0.0 www.betcris.com
+0.0.0.0 www.betcruise.com
 0.0.0.0 www.betdaq.com
 0.0.0.0 www.betdon.com
 0.0.0.0 www.betdsi.eu
@@ -127500,6 +127539,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.betgoto.com
 0.0.0.0 www.betgrande.com
 0.0.0.0 www.betgun.com
+0.0.0.0 www.bethard.com
 0.0.0.0 www.betin.com
 0.0.0.0 www.betin1.com
 0.0.0.0 www.betinternet.com
@@ -127514,12 +127554,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.betmania.ag
 0.0.0.0 www.betmclean.com
 0.0.0.0 www.betmira.com
+0.0.0.0 www.betmonarch.com
 0.0.0.0 www.betmotion.com
 0.0.0.0 www.betmyline.com
+0.0.0.0 www.betmylines.com
 0.0.0.0 www.betn1.com
 0.0.0.0 www.betngo.com
+0.0.0.0 www.betodds.ag
 0.0.0.0 www.betondunhill.com
 0.0.0.0 www.betonline.ag
+0.0.0.0 www.betonline.com
 0.0.0.0 www.betonline247.com
 0.0.0.0 www.betonusa.ag
 0.0.0.0 www.betorca.com
@@ -127530,6 +127574,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.betpassion.uno
 0.0.0.0 www.betpci.com
 0.0.0.0 www.betphoenix.ag
+0.0.0.0 www.betplatinum.ag
 0.0.0.0 www.betplay.com
 0.0.0.0 www.betpop.eu
 0.0.0.0 www.betprestige.com
@@ -127545,6 +127590,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bets10go.com
 0.0.0.0 www.bets4all.com
 0.0.0.0 www.betsafe.com
+0.0.0.0 www.betsbc.com
 0.0.0.0 www.betsbi.com
 0.0.0.0 www.betshop.com
 0.0.0.0 www.betsking11.com
@@ -127553,6 +127599,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.betsson.com
 0.0.0.0 www.betstar.com.au
 0.0.0.0 www.betstars.com
+0.0.0.0 www.betstars.uk
 0.0.0.0 www.betswar.com
 0.0.0.0 www.bettap.com
 0.0.0.0 www.bettbet.com
@@ -127593,6 +127640,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bigbetworld.com
 0.0.0.0 www.bigbrandpromotions.com
 0.0.0.0 www.bigbrandrewards.com
+0.0.0.0 www.bigcitysportsbook.com
 0.0.0.0 www.bigcockshemale.com
 0.0.0.0 www.biggestgiftrewards.com
 0.0.0.0 www.bighairynews.com
@@ -127615,6 +127663,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bingowags.com
 0.0.0.0 www.bingoyard.com
 0.0.0.0 www.bitcoiner.win
+0.0.0.0 www.bitcoinrush.io
 0.0.0.0 www.bitcoinsports.eu
 0.0.0.0 www.bitlocker.net
 0.0.0.0 www.bitsaloon.com
@@ -127671,6 +127720,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bobby.org
 0.0.0.0 www.bobetting.com
 0.0.0.0 www.bodog.eu
+0.0.0.0 www.bodog888.com
 0.0.0.0 www.bodugi.com
 0.0.0.0 www.bogata-przyszlosc.com
 0.0.0.0 www.bola88.com
@@ -127852,6 +127902,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.casineto.net
 0.0.0.0 www.casino770.com
 0.0.0.0 www.casinobitco.in
+0.0.0.0 www.casinony.com
 0.0.0.0 www.casinopopup.com
 0.0.0.0 www.casinotropez.com
 0.0.0.0 www.casinoxo.com
@@ -128037,6 +128088,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.clkoffers.com
 0.0.0.0 www.clksite.com
 0.0.0.0 www.closeoutproductsreview.com
+0.0.0.0 www.cloudbet.com
 0.0.0.0 www.cloudcdn.gdn
 0.0.0.0 www.cloudcoins.co
 0.0.0.0 www.cloudflane.com
@@ -128242,6 +128294,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.crowdgravity.com
 0.0.0.0 www.crowdignite.com
 0.0.0.0 www.crowin24.com
+0.0.0.0 www.crsportsbet.ag
 0.0.0.0 www.crsportsbetting.com
 0.0.0.0 www.crtasi.it
 0.0.0.0 www.crypto-loot.com
@@ -128385,6 +128438,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.datingadvertising.com
 0.0.0.0 www.davidwolfe.com
 0.0.0.0 www.day66.com
+0.0.0.0 www.dccasino.com
 0.0.0.0 www.dcclothesline.com
 0.0.0.0 www.dcm5.com
 0.0.0.0 www.dcsoftware.bannerless.com
@@ -129060,6 +129114,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.gamesharkcentral.com
 0.0.0.0 www.gametime88.com
 0.0.0.0 www.gamevance.com
+0.0.0.0 www.gamingclub1.com
 0.0.0.0 www.gaohaiying.com
 0.0.0.0 www.garudaairlines.com
 0.0.0.0 www.garybonnell.jp
@@ -129216,6 +129271,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.gospelcelebration.com
 0.0.0.0 www.gossipbingo.com
 0.0.0.0 www.gotocasino.com
+0.0.0.0 www.gotoentertainment.com
 0.0.0.0 www.gotosportsbook.com
 0.0.0.0 www.gotwarez.com
 0.0.0.0 www.gowildcasino.net
@@ -129244,6 +129300,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.greensustainabilitycoach.com
 0.0.0.0 www.grendizer.biz
 0.0.0.0 www.grmtech.net
+0.0.0.0 www.grosvenorcasinos.com
 0.0.0.0 www.group-metrics.com
 0.0.0.0 www.grouphappy.com
 0.0.0.0 www.groupm.com
@@ -129555,6 +129612,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.indiaconsulate.com
 0.0.0.0 www.indiads.com
 0.0.0.0 www.indiaonclick.com
+0.0.0.0 www.indycasino.com
 0.0.0.0 www.ineedhits.com
 0.0.0.0 www.inevo.co.il
 0.0.0.0 www.infamylists.com
@@ -129684,6 +129742,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.jammyduck.com
 0.0.0.0 www.jampanimxygdwkim.download
 0.0.0.0 www.janeaustenjoy.com
+0.0.0.0 www.japancasino.com
 0.0.0.0 www.japanesevehicles.us
 0.0.0.0 www.japanmadchen.com
 0.0.0.0 www.japscat.org
@@ -129716,6 +129775,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.jetpackdigital.com
 0.0.0.0 www.jetpad.com
 0.0.0.0 www.jetseeker.com
+0.0.0.0 www.jetwin.com
 0.0.0.0 www.jewsnews.co.il
 0.0.0.0 www.jfqsgonveglandules.review
 0.0.0.0 www.jiayuan.com
@@ -129779,6 +129839,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.junecleeland.com
 0.0.0.0 www.jung201.tk
 0.0.0.0 www.jupuxbmavoguish.review
+0.0.0.0 www.justbet.co
 0.0.0.0 www.justbet.co.za
 0.0.0.0 www.justbet.cx
 0.0.0.0 www.justdropped.com
@@ -129807,6 +129868,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.kamsinseuexlw.download
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.karakulszmlyttq.download
+0.0.0.0 www.karamba.com
 0.0.0.0 www.kardanremont.com
 0.0.0.0 www.kasaraomoveis.com.br
 0.0.0.0 www.kasdjjaks83adsasd.com
@@ -129922,6 +129984,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.larivieracasino.com
 0.0.0.0 www.laspalmassportsbook.com
 0.0.0.0 www.lasthr.info
+0.0.0.0 www.lasvegassportsbetting.com
 0.0.0.0 www.lateecapes.com
 0.0.0.0 www.latest-460050.ebeda.info
 0.0.0.0 www.latest-461069.dochyedu.info
@@ -129990,6 +130053,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.likethis.mbosoft.com
 0.0.0.0 www.likethislist.biz
 0.0.0.0 www.linconpark.com
+0.0.0.0 www.linesmaker.eu
 0.0.0.0 www.linezing.com
 0.0.0.0 www.link2bet.com
 0.0.0.0 www.linkads.de
@@ -130031,6 +130095,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.livecount.fr
 0.0.0.0 www.liveinternet.ru
 0.0.0.0 www.livejasmin.com
+0.0.0.0 www.livesports.ag
 0.0.0.0 www.livestat.com
 0.0.0.0 www.livewebstats.dk
 0.0.0.0 www.livewell.net
@@ -130161,6 +130226,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mapqueat.com
 0.0.0.0 www.mapquestt.com
 0.0.0.0 www.mapquuest.com
+0.0.0.0 www.marathonbet.co.uk
 0.0.0.0 www.marathonbet.com
 0.0.0.0 www.marcopolo.uk.net
 0.0.0.0 www.marinoderosas.com
@@ -130260,6 +130326,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.methode-binaire.com
 0.0.0.0 www.metricsimage.com
 0.0.0.0 www.metspoker.com
+0.0.0.0 www.mexicocasino.com
 0.0.0.0 www.mfjegjqb.com
 0.0.0.0 www.mftracking.com
 0.0.0.0 www.mgid.com
@@ -130371,6 +130438,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mp3playersource.com
 0.0.0.0 www.mpc.mxptint.net
 0.0.0.0 www.mpc.nl.mxptint.net
+0.0.0.0 www.mpcasino.com
 0.0.0.0 www.mpd.mxptint.net
 0.0.0.0 www.mpd.nl.mxptint.net
 0.0.0.0 www.mpintelligence.maxpoint.com
@@ -130386,6 +130454,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mpxxtrk.com
 0.0.0.0 www.mpzw.com
 0.0.0.0 www.mrcblog.com
+0.0.0.0 www.mrgreen.com
 0.0.0.0 www.mrringo.com
 0.0.0.0 www.ms-mvp.org
 0.0.0.0 www.mscarsales.co.uk
@@ -130585,6 +130654,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.nordicbet.com
 0.0.0.0 www.nordwest.tora.ru
 0.0.0.0 www.northamptonshirecracklingcompany.co.uk
+0.0.0.0 www.northbet.com
 0.0.0.0 www.northpoleitalia.it
 0.0.0.0 www.nosilia.se
 0.0.0.0 www.nospartenaires.com
@@ -130632,6 +130702,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.odbior-nagrody.pl
 0.0.0.0 www.oddsmaker.ag
 0.0.0.0 www.oddsring.com
+0.0.0.0 www.oddsshark.com
 0.0.0.0 www.odinbet.com
 0.0.0.0 www.odliczamy.net
 0.0.0.0 www.oetwplgu.com
@@ -130639,6 +130710,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.offerx.co.uk
 0.0.0.0 www.officialrdr.com
 0.0.0.0 www.offsidebet.com
+0.0.0.0 www.offtrackbetting.com
 0.0.0.0 www.ogeneinaamin.com
 0.0.0.0 www.ohimmades.pw
 0.0.0.0 www.ohiocasino.com
@@ -130789,6 +130861,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.parasino.com
 0.0.0.0 www.paraskov.com
 0.0.0.0 www.parimatch.com
+0.0.0.0 www.parimatchplay1.com
 0.0.0.0 www.parkingcrew.net
 0.0.0.0 www.parsads.com
 0.0.0.0 www.partner-ads.com
@@ -130877,6 +130950,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pills-home.com
 0.0.0.0 www.pillsmoney.com
 0.0.0.0 www.pinion.gg
+0.0.0.0 www.pinnacle.com
 0.0.0.0 www.pinnaclesports.com
 0.0.0.0 www.pinoytv.ru
 0.0.0.0 www.pintour.com
@@ -130904,6 +130978,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.playbet.com
 0.0.0.0 www.playerassist.com
 0.0.0.0 www.playersaid.com
+0.0.0.0 www.playersonly.ag
 0.0.0.0 www.playgril.com
 0.0.0.0 www.playlott.com
 0.0.0.0 www.playsataion.com
@@ -130930,6 +131005,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pokerimaa.com
 0.0.0.0 www.pokermax.com
 0.0.0.0 www.pokerstars.eu
+0.0.0.0 www.pokerstars.uk
+0.0.0.0 www.pokerstarscasino.uk
 0.0.0.0 www.politicalgarbagechute.com
 0.0.0.0 www.politicalopinionsurvey.com
 0.0.0.0 www.politicususa.com
@@ -131193,6 +131270,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.redstate.com
 0.0.0.0 www.reducelnk.com
 0.0.0.0 www.reduxmediia.com
+0.0.0.0 www.redzonesports.bet
 0.0.0.0 www.reelcentric.com
 0.0.0.0 www.reelnewsnetwork.com
 0.0.0.0 www.refer.ru
@@ -131286,6 +131364,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.rowanmclean.com
 0.0.0.0 www.roxyaffiliates.com
 0.0.0.0 www.royalcspot.com
+0.0.0.0 www.royalpanda.com
 0.0.0.0 www.rqsndrkezz.com
 0.0.0.0 www.rscounter10.com
 0.0.0.0 www.rsmtrack.com
@@ -131659,10 +131738,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sportsbet.com.au
 0.0.0.0 www.sportsbetting.ag
 0.0.0.0 www.sportsbetting.com.au
+0.0.0.0 www.sportsbettingdime.com
 0.0.0.0 www.sportsbettingonline.ag
 0.0.0.0 www.sportsbook-uk.com
+0.0.0.0 www.sportsbook.ag
 0.0.0.0 www.sportsbook.ca
 0.0.0.0 www.sportsbook.com
+0.0.0.0 www.sportsbookreview.com
 0.0.0.0 www.sportsbooks.com
 0.0.0.0 www.sportsbookusa.com
 0.0.0.0 www.sportsinteraction.com
@@ -131699,6 +131781,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.stage.edilnord.it
 0.0.0.0 www.stage.tracker.springserve.com
 0.0.0.0 www.staging-h-api.online-metrix.net
+0.0.0.0 www.stakers.com
 0.0.0.0 www.stamplive.com
 0.0.0.0 www.stanjames.com
 0.0.0.0 www.star-advertising.com
@@ -131766,6 +131849,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.suckpenis.com
 0.0.0.0 www.sudokuwhiz.com
 0.0.0.0 www.sugarsync.com
+0.0.0.0 www.sunbets.co.uk
 0.0.0.0 www.sunbrehden.top
 0.0.0.0 www.sundayregister.com
 0.0.0.0 www.sunidaytravel.co.uk
@@ -131778,6 +131862,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.super8service.de
 0.0.0.0 www.superbanner.org
 0.0.0.0 www.superbet.com
+0.0.0.0 www.superbook.ag
 0.0.0.0 www.superbrewards.com
 0.0.0.0 www.superclix.de
 0.0.0.0 www.superinternetdeals.com
@@ -132230,6 +132315,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ugdturner.com
 0.0.0.0 www.ugripe.com
 0.0.0.0 www.ujian.cc
+0.0.0.0 www.uk-k8.com
 0.0.0.0 www.ukbanners.com
 0.0.0.0 www.ukrpts.net
 0.0.0.0 www.uleadstrk.com
@@ -132244,6 +132330,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.unblocksit.es
 0.0.0.0 www.uncover.us
 0.0.0.0 www.undertonenetworks.com
+0.0.0.0 www.unibet.co.uk
 0.0.0.0 www.unibet.com
 0.0.0.0 www.unicaitaly.it
 0.0.0.0 www.unicast.com
@@ -132307,6 +132394,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.v3club.net
 0.0.0.0 www.v61.com
 0.0.0.0 www.v66v66.com
+0.0.0.0 www.vacasino.com
 0.0.0.0 www.vacationcellular.net
 0.0.0.0 www.vaccinationcouncil.org
 0.0.0.0 www.valhallarisingthemovie.co.uk
@@ -132416,7 +132504,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.wager7.eu
 0.0.0.0 www.wagerallin.com
 0.0.0.0 www.wagermadness.com
+0.0.0.0 www.wagerup.eu
 0.0.0.0 www.wagerweb.ag
+0.0.0.0 www.wagerweb.eu
 0.0.0.0 www.wakadoo.dk
 0.0.0.0 www.wakingtimes.com
 0.0.0.0 www.walgreenspharmacyrx.net
@@ -132558,6 +132648,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.windaily.com
 0.0.0.0 www.winmasters.com
 0.0.0.0 www.winmediaplayerplus.com
+0.0.0.0 www.winner.co.uk
 0.0.0.0 www.winnerschoiceservices.com
 0.0.0.0 www.winningft.com
 0.0.0.0 www.winscholarship.com
@@ -136530,6 +136621,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zenfone4.com
 0.0.0.0 zengolese.com
 0.0.0.0 zenigameblinger.org
+0.0.0.0 zenitbet.com
 0.0.0.0 zenitchampion.cn
 0.0.0.0 zenithtradinginc.com
 0.0.0.0 zenkreka.com
