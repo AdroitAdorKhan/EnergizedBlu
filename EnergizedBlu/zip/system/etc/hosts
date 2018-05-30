@@ -6,7 +6,7 @@
 # Version: 18.05.150
 # Project Git: https://github.com/EnergizedProtection/EnergizedBlu
 # RAW Source: https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu
-# Last updated: Wed, 30 May 18 04:24:34
+# Last updated: Wed, 30 May 18 06:28:52
 # Total Domains: 137307
 
 
@@ -46,7 +46,6 @@ ff02::3 ip6-allhosts
 # -==================================================-
 
 
-0.0.0.0 0.0.0.0
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.up.qingdaonews.com
 0.0.0.0 000.gaysexe.free.fr
@@ -80289,6 +80288,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mtv2.telemedia.la
 0.0.0.0 mtv3.spring-tns.net
 0.0.0.0 mtvbrazil-services.vimn.com
+0.0.0.0 mtveughs.com
 0.0.0.0 mtvn.112.2o7.net
 0.0.0.0 mtvn.demdex.net
 0.0.0.0 mtvnlatservices.com
