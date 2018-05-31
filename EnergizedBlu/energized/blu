@@ -6,8 +6,8 @@
 # Version: 18.05.151
 # Project Git: https://github.com/EnergizedProtection/EnergizedBlu
 # RAW Source: https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu
-# Last updated: Thu, 31 May 18 06:55:23
-# Total Domains: 137254
+# Last updated: Thu, 31 May 18 18:25:17
+# Total Domains: 137277
 
 
 # -================-Maintainer-================-
@@ -48,6 +48,7 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.up.qingdaonews.com
+0.0.0.0 000.0x1f4b0.com
 0.0.0.0 000.gaysexe.free.fr
 0.0.0.0 000007.ru
 0.0.0.0 0000mps.webpreview.dsl.net
@@ -59,20 +60,29 @@ ff02::3 ip6-allhosts
 0.0.0.0 000lp59.wcomhost.com
 0.0.0.0 000owamail0.000webhostapp.com
 0.0.0.0 000tristanprod.free.fr
+0.0.0.0 001.0x1f4b0.com
 0.0.0.0 001547.000webhostapp.com
 0.0.0.0 001wen.com
+0.0.0.0 002.0x1f4b0.com
+0.0.0.0 003.0x1f4b0.com
+0.0.0.0 004.0x1f4b0.com
 0.0.0.0 004b17a0c349157de.com
+0.0.0.0 005.0x1f4b0.com
 0.0.0.0 005.free-counter.co.uk
+0.0.0.0 006.0x1f4b0.com
 0.0.0.0 006.free-counter.co.uk
 0.0.0.0 006.freecounters.co.uk
 0.0.0.0 006a039c957c142bb.com
 0.0.0.0 007-gateway.com
+0.0.0.0 007.0x1f4b0.com
 0.0.0.0 007.free-counter.co.uk
 0.0.0.0 0073dd485d46d930dd9.com
 0.0.0.0 007angels.com
 0.0.0.0 007freepics.com
+0.0.0.0 008.0x1f4b0.com
 0.0.0.0 008.free-counter.co.uk
 0.0.0.0 008.free-counters.co.uk
+0.0.0.0 009.0x1f4b0.com
 0.0.0.0 00aaa2d81c1d174.com
 0.0.0.0 00author.com
 0.0.0.0 00bloggers.ru
@@ -54484,6 +54494,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 g-stats.openhost.es
 0.0.0.0 g-wizzads.net
 0.0.0.0 g-zone.biz
+0.0.0.0 g.0x1f4b0.com
 0.0.0.0 g.163.com
 0.0.0.0 g.3gl.net
 0.0.0.0 g.3lian.com
@@ -61173,6 +61184,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hmcjupvbxxyx.com
 0.0.0.0 hmdmvaxmmwoso.bid
 0.0.0.0 hmdocuments.com
+0.0.0.0 hmeojqyjoascs.com
 0.0.0.0 hmjtutipevtmg.com
 0.0.0.0 hmkrfmtra.bid
 0.0.0.0 hmlghvujrve.com
@@ -62799,6 +62811,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iamogb.com
 0.0.0.0 iamsport.org
 0.0.0.0 iansucrovvzbi.bid
+0.0.0.0 iaoisfnac.com
 0.0.0.0 iapp-cp.nuggad.net
 0.0.0.0 iapphackstools.com
 0.0.0.0 iapplsslserviceupgrade.settingaccountsslsupport.com
@@ -69574,6 +69587,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kinzigtalradio.de
 0.0.0.0 kio.quanliyouxi.cn
 0.0.0.0 kiochlocj.bid
+0.0.0.0 kiodudldzmzwr.com
 0.0.0.0 kioshow.com
 0.0.0.0 kiosked-d.openx.net
 0.0.0.0 kiosked.com
@@ -82942,6 +82956,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ngesso.com.br
 0.0.0.0 ngj6pp.broz.northerndishedends.co
 0.0.0.0 ngjfgfk.penaltypros.com
+0.0.0.0 ngkqlfcm.com
 0.0.0.0 ngl.kr
 0.0.0.0 nglmedia.com
 0.0.0.0 ngmckvucrjbnyybvgesxozxcwpgnaljhpedttelavqmpgvfsxg.com
@@ -90534,6 +90549,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pennysgoods.top
 0.0.0.0 pennystock-picks.info
 0.0.0.0 pennyweb.com
+0.0.0.0 pennzxycrdmw.com
 0.0.0.0 pensele.paladin-global.net
 0.0.0.0 pensilwarna.com
 0.0.0.0 pension-appelburg.de
@@ -99499,6 +99515,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rochfashionstudio.com
 0.0.0.0 rociofashion.com
 0.0.0.0 rock.cryptaloot.pro
+0.0.0.0 rock.cryptoloot.pro
 0.0.0.0 rock.webmine.pro
 0.0.0.0 rockabox.co
 0.0.0.0 rockadillo.fi
@@ -101696,6 +101713,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 saspoo.com
 0.0.0.0 sasqhtfxsnklxn.bid
 0.0.0.0 sass.cryptaloot.pro
+0.0.0.0 sass.cryptoloot.pro
 0.0.0.0 sass.webmine.pro
 0.0.0.0 sasson-cpa.co.il
 0.0.0.0 sassynslim.com
@@ -109866,6 +109884,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stoltzfamily.co.za
 0.0.0.0 stomilolsztyn.pl
 0.0.0.0 stone.cryptaloot.pro
+0.0.0.0 stone.cryptoloot.pro
 0.0.0.0 stone.de
 0.0.0.0 stone.webmine.pro
 0.0.0.0 stoneagepk.com
@@ -114534,6 +114553,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 todohr.com
 0.0.0.0 todolize.com
 0.0.0.0 todped.com
+0.0.0.0 toenwwsmam.com
 0.0.0.0 toeslagenwet.nl
 0.0.0.0 toflvbkpwxcr.com
 0.0.0.0 toftforcal.com
@@ -119344,6 +119364,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 upgradenote.checkupdateslive.net
 0.0.0.0 upgradenote.enterbestforupdating.bid
 0.0.0.0 upgradenow24.com
+0.0.0.0 upgraderservices.cf
 0.0.0.0 upgradeserver.support-customer.ml
 0.0.0.0 upgradestep.org
 0.0.0.0 upgrdprocess.com.ng
@@ -128151,6 +128172,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.crsportsbet.ag
 0.0.0.0 www.crsportsbetting.com
 0.0.0.0 www.crtasi.it
+0.0.0.0 www.cryptaloot.pro
 0.0.0.0 www.crypto-loot.com
 0.0.0.0 www.crypto-pool.fr
 0.0.0.0 www.cryptoloot.pro
@@ -135549,6 +135571,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yoc.mobi
 0.0.0.0 yoclub.waphall.com
 0.0.0.0 yocnxozede.bid
+0.0.0.0 yocsprvjl.com
 0.0.0.0 yoda.cybereps.com
 0.0.0.0 yodleeinc.tt.omtrdc.net
 0.0.0.0 yodr.net
