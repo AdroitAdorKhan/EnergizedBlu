@@ -5,7 +5,7 @@
 # Copyright (c) 2018 games195 <games195dev@gmail.com>. Licensed under MIT License.
 # Thanks to @games195 for this amazing script.
 
-import urllib
+import urllib.request
 import datetime
 import os
 import time
@@ -44,7 +44,7 @@ Sources = [
 for Link in Sources:
 	try:
 		print('[+] Retrieving list from: {}'.format(Link))
-		r = urllib.urlopen(Link)
+		r = urllib.request.urlopen(Link)
 		Host = r.readlines()
 		Host = [x.decode('UTF-8') for x in Host]
 		Host = [x.strip() for x in Host]
@@ -60,7 +60,7 @@ for Link in Sources:
 print('[+] Removing duplicates and sorting...')
 List = sorted(list(set(List)))
 print('[+] Applying whitelist...')
-r = urllib.urlopen('https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/whitelist')
+r = urllib.request.urlopen('https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/whitelist')
 Whitelist = r.readlines()
 Whitelist = [x.decode('utf-8') for x in Whitelist]
 Whitelist = [x.strip() for x in Whitelist]
