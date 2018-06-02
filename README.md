@@ -11,9 +11,9 @@ Go version of [Energized](https://github.com/AdroitAdorKhan/Energized) Hosts. Ma
 
 ### [RAW SOURCE](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu) | [HOST SERVER](http://adroit.heliohost.org/energized/blu)
 
-## Flashable ZIP
+## ZIPs
 
-### [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu.zip) | [MIRROR](http://adroit.heliohost.org/energized/blu.zip)
+### [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu.zip) | [MIRROR](http://adroit.heliohost.org/energized/blu.zip) | [Flashable ZIP Android](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_Android.zip)
 
 ## Maintainer
 
