@@ -14,6 +14,7 @@ if not os.path.exists(os.path.dirname(File)):
 	os.makedirs(os.path.dirname(File))
 
 with open(File, 'w') as f:
+	print('[+ Magisk Module.Prop Updater +]')
 	print('[+] Writing to file...')
 	f.write('''id=energizedblu''')
 	f.write('''\nname=Energized Blu''')
