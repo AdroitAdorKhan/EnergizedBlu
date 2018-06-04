@@ -18,6 +18,7 @@ Sources = [
 	'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts',
 	'http://someonewhocares.org/hosts/zero/',
 	'https://hblock.molinero.xyz/hosts',
+  'https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/adblock.mahakala.is/master/output/hosts/ACTIVE/hosts',
 	'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt',
 	'https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts',
 	'https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt',
