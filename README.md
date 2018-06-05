@@ -4,8 +4,9 @@
 
 Lightweight versions of [Energized](https://github.com/AdroitAdorKhan/Energized) Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Hopefully, this will cover most of the bad sites and give you the best protection in a compact size ever!
 
-* Last Updated: **June 5, 2018**.
-* Total Entries: Blu - **232,186** Go - **82,429**
+* Last Updated: **_time_stamp**
+* Version: **18.06.156**
+* Total Entries: Blu - **232190** Go - **82429**
 
 ## Source
 
@@ -86,4 +87,5 @@ ZeuS Tracker | Domain and IP-Bloclists. |[LINK](https://zeustracker.abuse.ch/) |
 <p align="center">A project by <a href="https://github.com/AdroitAdorKhan" target="_blank">Ador</a> with ❤<p>
 
 <p align="center"><a href="https://saythanks.io/to/AdroitAdorKhan" target="_blank"><img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg"></a><p>
+
 
