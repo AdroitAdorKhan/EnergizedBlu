@@ -51,8 +51,35 @@ Blu go | [RAW](http://adroit.heliohost.org/energized/blu_go) | [TXT](http://adro
 
 Package | Sources |
 ---------------- |:------:|
-**Blu** | *add.2o7Net, add.Dead, Adguard Filters, Ador, Anti-PopAds, Coin Blocker, Disconnectme Ads, Malware & Malvertising, EasyPrivacy Specific, hBlock, Lightswitch Ads & Tracking, Spam404, KADhosts, MoaAB, No Tracking, NSABlocklist, someonewhocares, StevenBlack, Wally3K_Blacklist & Zeus Tracker* |
+**Blu** | *add.2o7Net, add.Dead, Risk & Spam, Adguard Filters, Ador, Anti-PopAds, Coin Blocker, Disconnectme Ads, Malware & Malvertising, EasyPrivacy Specific, hBlock, Lightswitch Ads & Tracking, Spam404, KADhosts, MoaAB, No Tracking, NSABlocklist, someonewhocares, StevenBlack, Wally3K_Blacklist & Zeus Tracker* |
 **Blu go** | *Adguard Filters, Ador, EasyPrivacy Specific, No Tracking, someonewhocares & StevenBlack* 
+
+## Thanks to -
+
+Updated `hosts` files from the following locations are always merged and
+included:
+
+Host file source | Description | Home page | Raw hosts | License |
+-----------------|-------------|:---------:|:---------:|:---------:|
+AdguardFilters | AdGuard Ad Blocking Filters https://adguard.com/ |[LINK](https://github.com/AdguardTeam/AdguardFilters) | [RAWs](https://github.com/AdguardTeam/AdguardFilters) | CC BY-SA 3.0 |
+add.2o7Net | 2o7Net tracking sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) | GPLv3+ |
+add.Dead | Dead sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts) | GPLv3+ |
+add.Risk | Risk content sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts) | GPLv3+ |
+add.Spam | Spam sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) | GPLv3+ |
+Anti-PopAds | Popads.net domains for use in adblock. |[LINK](https://github.com/Yhonay/antipopads/) | [RAW](https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts) | WTFPLv2 |
+CoinBlocker | Simple lists that can help prevent cryptomining in the browser or other applications |[LINK](https://github.com/ZeroDot1/CoinBlockerLists) | [RAW](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser) | AGPLv3 |Dawsey - Spam404 | Spam404 Lists. |[LINK](https://github.com/Dawsey21/Lists/) | [RAW](https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt) | UNKNOWN |
+Disconnect.me | Simple Malvertising. |[LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt) | GPLv3 |
+Disconnect.me | Simple Malware. |[LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt) | GPLv3 |
+DShield LOW | Suspicious domains on the internet. |[LINK](https://www.dshield.org/suspicious_domains.html) | [RAW](https://www.dshield.org/feeds/suspiciousdomains_Low.txt) | Non-Commercial with Attribution |
+hBlock | Improve your security and privacy by blocking ads, tracking and malware domains. | [LINK](https://hblock.molinero.xyz/) | [RAW](https://hblock.molinero.xyz/hosts) | MIT |
+KADhosts | Fraud/adware/scam websites. |[LINK](https://github.com/azet12/KADhosts) | [RAW](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) | GPLv3 |
+MoaAB: Mother of All AD-BLOCKING |  Hosts file to block advertisements and trackers designed for Android | [LINK](https://forum.xda-developers.com/showthread.php?t=1916098) | [RAW](https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/adblock.mahakala.is/master/output/hosts/ACTIVE/hosts) | RESTRICTED |
+No Tracking - Hosts Blocklist | Automatically updated, moderated and optimized lists for blocking ads, trackers and other online garbage. |[LINK](https://github.com/notracking/hosts-blocklists) | [RAW](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt) | UNKNOWN |
+NSABlocklist | HOSTS file to block all known NSA / GCHQ / C.I.A. / F.B.I. spying servers. | [LINK](https://github.com/CHEF-KOCH/NSABlocklist) | [RAW](https://github.com/CHEF-KOCH/NSABlocklist/raw/master/HOSTS) | MIT |
+someonewhocares - Dan Pollock | How to make the internet not suck (as much). |[LINK](http://someonewhocares.org/hosts/) | [RAW](http://someonewhocares.org/hosts/zero/hosts) | Non-Commercial with Attribution |
+Steven Black's Unified Hosts | A variety of tailored hosts files are provided. |[LINK](https://github.com/StevenBlack/hosts/) | [RAW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts) | MIT |
+WaLLy3K_Blacklist | Adblock, Hosts, Dansguardian, etc |[LINK](https://v.firebog.net/hosts/) | [RAW](https://v.firebog.net/hosts/static/w3kbl.txt) | GPL |
+ZeuS Tracker | Domain and IP-Bloclists. |[LINK](https://zeustracker.abuse.ch/) | [RAW](https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist) | UNKNOWN |
 
 ---
 
