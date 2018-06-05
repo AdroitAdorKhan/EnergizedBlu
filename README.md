@@ -11,8 +11,8 @@ Lightweight versions of [Energized](https://github.com/AdroitAdorKhan/Energized)
 
 Package | RAW | TXT | Compressed | Flashable | Magisk | Windows BAT
 -----------|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-Blu | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu) (6 MB) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu.txt) ( 6 MB)| [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu.zip) (3 MB) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_android.zip) (1.6 MB) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_magisk.zip) (1.6 MB) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_windows.zip) (1.6 MB)
-Blu go |  [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go) (2.3 MB) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go.txt) (2.3 MB) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go.zip)  (0.6 MB)| [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go_android.zip) (1 MB) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go_magisk.zip) (0.6 MB) | -
+Blu | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu) (6 MB) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu.txt) ( 6 MB)| [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu.zip) (3 MB) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_android.zip) (1.5 MB) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_magisk.zip) (1.5 MB) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_windows.zip) (1.5 MB)
+Blu go |  [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go) (2 MB) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go.txt) (2 MB) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go.zip)  (0.5 MB)| [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go_android.zip) (1 MB) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go_magisk.zip) (0.5 MB) | -
 
 ## Mirror
 
@@ -46,6 +46,13 @@ Blu go | [RAW](http://adroit.heliohost.org/energized/blu_go) | [TXT](http://adro
 - [x] Increases privacy.
 
 - [x] No extra abracadabra! 
+
+### Package Details
+
+Package | Sources |
+---------------- |:------:|
+**Blu** | *add.2o7Net, add.Dead, Adguard Filters, Ador, Anti-PopAds, Coin Blocker, Disconnectme Ads, Malware & Malvertising, EasyPrivacy Specific, hBlock, Lightswitch Ads & Tracking, Spam404, KADhosts, MoaAB, No Tracking, NSABlocklist, someonewhocares, StevenBlack, Wally3K_Blacklist & Zeus Tracker* |
+**Blu go** | *Adguard Filters, Ador, EasyPrivacy Specific, No Tracking, someonewhocares & StevenBlack* 
 
 ---
 
