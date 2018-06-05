@@ -4,7 +4,7 @@
 
 Lightweight versions of [Energized](https://github.com/AdroitAdorKhan/Energized) Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Hopefully, this will cover most of the bad sites and give you the best protection in a compact size ever!
 
-* Last Updated: **_time_stamp**
+* Last Updated: **Jun 05, 2018**
 * Version: **18.06.156**
 * Total Entries: Blu - **232190** Go - **82429**
 
