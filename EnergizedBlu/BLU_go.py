@@ -21,7 +21,6 @@ Sources = [
 	'https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/AdguardMobileSpyware.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/EasyPrivacySpecific.txt',
-	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEMalware.txt',
 	'https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt'
 ]
 
