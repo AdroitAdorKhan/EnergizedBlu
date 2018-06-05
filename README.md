@@ -5,7 +5,7 @@
 Go version of [Energized](https://github.com/AdroitAdorKhan/Energized) Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Hopefully, this will cover most of the bad sites and give you the best protection in a compact size ever!
 
 * Last Updated: **June 5, 2018**.
-* Total Entries: **232,178**
+* Total Entries: **232,182**
 
 ## Source
 
