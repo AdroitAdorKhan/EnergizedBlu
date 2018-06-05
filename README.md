@@ -5,20 +5,20 @@
 Lightweight versions of [Energized](https://github.com/AdroitAdorKhan/Energized) Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Hopefully, this will cover most of the bad sites and give you the best protection in a compact size ever!
 
 * Last Updated: **June 5, 2018**.
-* Total Entries: **232,182**
+* Total Entries: Blu - **232,186** Go - **82,429**
 
 ## Source
 
 Package | RAW | TXT | Compressed | Flashable | Magisk | Windows BAT
 -----------|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-Blu | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu.txt) | [Zip](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu.zip) | [Android](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_android.zip) | [Magisk](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_magisk.zip) | [BAT ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_windows.zip)
-Blu go |  [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go.txt) | [Zip](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go.zip) | [Android](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go_android.zip) | [Magisk](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go_magisk.zip) | -
+Blu | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu.txt) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu.zip) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_android.zip) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_magisk.zip) | [BAT ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_windows.zip)
+Blu go |  [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go.txt) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go.zip) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go_android.zip) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go_magisk.zip) | -
 
 ## Mirror
 
 Package | RAW | TXT | Compressed | Flashable | Magisk | Windows BAT
 -----------|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-Blu | [RAW](http://adroit.heliohost.org/energized/blu) | [TXT](http://adroit.heliohost.org/energized/blu.txt) | [Zip](http://adroit.heliohost.org/energized/blu.zip) | [Android](http://adroit.heliohost.org/energized/blu_android.zip) | [Magisk](http://adroit.heliohost.org/energized/blu_magisk.zip) | [BAT ZIP](http://adroit.heliohost.org/energized/blu_windows.zip)
+Blu | [RAW](http://adroit.heliohost.org/energized/blu) | [TXT](http://adroit.heliohost.org/energized/blu.txt) | [ZIP](http://adroit.heliohost.org/energized/blu.zip) | [ANDROID](http://adroit.heliohost.org/energized/blu_android.zip) | [MAGISK](http://adroit.heliohost.org/energized/blu_magisk.zip) | [BAT ZIP](http://adroit.heliohost.org/energized/blu_windows.zip)
 Blu go | [RAW](http://adroit.heliohost.org/energized/blu_go) | [TXT](http://adroit.heliohost.org/energized/blu_go.txt) | [ZIP](http://adroit.heliohost.org/energized/blu_go.zip) | [ANDROID](http://adroit.heliohost.org/energized/blu_go_android.zip) | [MAGISK](http://adroit.heliohost.org/energized/blu_go_magisk.zip) | -
 
 ## Maintainer
