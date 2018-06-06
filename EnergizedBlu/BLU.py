@@ -28,7 +28,7 @@ Sources = [
 	'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/ZeusTracker.txt',
 	'https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts',
-	'https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser',
+	'https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/Spam404.txt',
 	'https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS',
 	'https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt',
