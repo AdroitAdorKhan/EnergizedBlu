@@ -1,3 +1,7 @@
+```
+NEW BUILD WILL BE DELAYED. DUE TO SOURCES UNAVAILABILITY! SORRY FOR THE INCONVENIENCE! 😔
+```
+
 ![Cover](https://ador.chorompotro.com/energized_blu_cover.svg)
 
 # Energized Blu - Hosts ⚡ [![Codenvy](https://img.shields.io/badge/Cloud-CodeAnyWhere-7F3F97.svg)](https://codeanywhere.com/) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/AdroitAdorKhan/Energized/blob/master/LICENSE)
