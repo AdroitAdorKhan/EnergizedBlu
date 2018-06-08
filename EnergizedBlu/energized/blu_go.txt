@@ -3,11 +3,11 @@
 # https://ador.chorompotro.com
 
 # Energized Blu go - Energized Go!
-# Version: 18.06.158
+# Version: 18.06.159
 # Project Git: https://github.com/EnergizedProtection/EnergizedBlu
 # RAW Source: https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go
-# Last updated: Thu, 07 Jun 18 06:11:40
-# Total Domains: 82662
+# Last updated: Fri, 08 Jun 18 11:57:11
+# Total Domains: 82742
 
 
 # -================-Maintainer-================-
@@ -506,6 +506,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1bm.cqcounter.com
 0.0.0.0 1bx4t5c.com
 0.0.0.0 1c.42it.ru
+0.0.0.0 1c.video-ak.cdn.spotify.com
 0.0.0.0 1c6e2.v.fwmrm.net
 0.0.0.0 1ca.cqcounter.com
 0.0.0.0 1cgi.hitbox.com
@@ -780,6 +781,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 2betab.com
 0.0.0.0 2betesi.com
 0.0.0.0 2boys.pl
+0.0.0.0 2c.video-ak.cdn.spotify.com
 0.0.0.0 2cam.eu
 0.0.0.0 2cam.nl
 0.0.0.0 2cgi.hitbox.com
@@ -953,6 +955,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 3bb4f0.r.axf8.net
 0.0.0.0 3bc3fd26-91cf-46b2-8ec6-b1559ada0079.statcamp.net
 0.0.0.0 3bxyo8.kal.wkcengland.com
+0.0.0.0 3c.video-ak.cdn.spotify.com
 0.0.0.0 3c0cb3b4.space
 0.0.0.0 3cloud.net
 0.0.0.0 3d-daughter-list.info
@@ -1103,6 +1106,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4bf27o.wm.warmglow.org
 0.0.0.0 4biogas.de
 0.0.0.0 4bqs.com
+0.0.0.0 4c.video-ak.cdn.spotify.com
 0.0.0.0 4c28d6.r.axf8.net
 0.0.0.0 4c92j5.cz.cc
 0.0.0.0 4cock.com
@@ -1720,6 +1724,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 5advertise.com
 0.0.0.0 5b008e.r.axf8.net
 0.0.0.0 5bde1.v.fwmrm.net
+0.0.0.0 5c.video-ak.cdn.spotify.com
 0.0.0.0 5cjvq1.koll.pershoreairporttransfers.co.uk
 0.0.0.0 5d0dd.v.fwmrm.net
 0.0.0.0 5d406.v.fwmrm.net
@@ -1831,6 +1836,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 6amateure.net
 0.0.0.0 6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com
 0.0.0.0 6buckamateurs.com
+0.0.0.0 6c.video-ak.cdn.spotify.com
 0.0.0.0 6canadian-bakn.ciclc.net.garagesailgranny.baconwrappedhotdogs.com
 0.0.0.0 6dtxgqam4crv6rr6.onion.cab
 0.0.0.0 6e.co.kr
@@ -1922,6 +1928,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 7bp5g7.boss.northerndishedends.uk
 0.0.0.0 7bpeople.com
 0.0.0.0 7bpeople.data.7bpeople.com
+0.0.0.0 7c.video-ak.cdn.spotify.com
 0.0.0.0 7cfmnf.top
 0.0.0.0 7cnbcnews.com
 0.0.0.0 7crehlpapi.woeppvzoyj.madpendesign.com.au
@@ -2018,6 +2025,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 8b4bb47tiaolhy4uhhlfaqerg.sofarany.at
 0.0.0.0 8brxk7.moro.pershoreprivatehire.co.uk
 0.0.0.0 8btj9t.wm.warmglow.org
+0.0.0.0 8c.video-ak.cdn.spotify.com
 0.0.0.0 8cb8a3.r.axf8.net
 0.0.0.0 8cr.purredheanb.online
 0.0.0.0 8d6274.r.axf8.net
@@ -2093,6 +2101,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 9ambgkopn1xawlzj7um8.maherstcottage.com.au
 0.0.0.0 9bc0jymdlmwrsb0oam8h.littlematchagirl.com.au
 0.0.0.0 9bsemeihgubtuhdwqlt1.bosch-web-marketing.co.uk
+0.0.0.0 9c.video-ak.cdn.spotify.com
 0.0.0.0 9c0zypxf.myutilitydomain.com
 0.0.0.0 9c51vda.com
 0.0.0.0 9cd76b4462bb.com
@@ -2417,6 +2426,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.scorecardresearch.com
 0.0.0.0 a.senolati.com
 0.0.0.0 a.shamla.net
+0.0.0.0 a.shangz99991.com
 0.0.0.0 a.shczz.com
 0.0.0.0 a.shenchuang.com
 0.0.0.0 a.shokala.com
@@ -2534,6 +2544,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a1.suntimes.com
 0.0.0.0 a1.vdna-assets.com
 0.0.0.0 a1.vdolady.com
+0.0.0.0 a1.video-ak.cdn.spotify.com
 0.0.0.0 a1.x-traceur.com
 0.0.0.0 a1.yimg.com
 0.0.0.0 a1.yuuedu.com
@@ -2563,6 +2574,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a2.mediagra.com
 0.0.0.0 a2.rabbitpre.com
 0.0.0.0 a2.suntimes.com
+0.0.0.0 a2.video-ak.cdn.spotify.com
 0.0.0.0 a2.websponsors.com
 0.0.0.0 a2.xinhuanet.com
 0.0.0.0 a2.yimg.com
@@ -2579,6 +2591,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a2zgroup.in
 0.0.0.0 a3.adzs.nl
 0.0.0.0 a3.suntimes.com
+0.0.0.0 a3.video-ak.cdn.spotify.com
 0.0.0.0 a3.websitealive.com
 0.0.0.0 a3.websponsors.com
 0.0.0.0 a3.x-traceur.com
@@ -2587,6 +2600,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a3shd.realshieldlinked.com
 0.0.0.0 a4.adzs.nl
 0.0.0.0 a4.suntimes.com
+0.0.0.0 a4.video-ak.cdn.spotify.com
 0.0.0.0 a4.websponsors.com
 0.0.0.0 a4.yeshj.com
 0.0.0.0 a40.suntimes.com
@@ -2598,6 +2612,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a4p.adpartner.pro
 0.0.0.0 a4shd.realshieldlinked.com
 0.0.0.0 a5.suntimes.com
+0.0.0.0 a5.video-ak.cdn.spotify.com
 0.0.0.0 a5.websponsors.com
 0.0.0.0 a5.yeshj.com
 0.0.0.0 a50.suntimes.com
@@ -2615,6 +2630,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a6face-podgladacz.eu
 0.0.0.0 a6shd.realshieldlinked.com
 0.0.0.0 a7.suntimes.com
+0.0.0.0 a7.video-ak.cdn.spotify.com
 0.0.0.0 a71.info
 0.0.0.0 a74.info
 0.0.0.0 a75-10-so.ssl.cdn13.com
@@ -2624,10 +2640,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 a7hcd8.best.pershoretaxis.co.uk
 0.0.0.0 a7search.com
 0.0.0.0 a7shd.realshieldlinked.com
+0.0.0.0 a8.video-ak.cdn.spotify.com
 0.0.0.0 a85.info
 0.0.0.0 a876.g.akamai.net
 0.0.0.0 a885.ac-images.myspacecdn.com
 0.0.0.0 a8shd.realshieldlinked.com
+0.0.0.0 a9.video-ak.cdn.spotify.com
 0.0.0.0 a94.info
 0.0.0.0 a98cjo.wm.warmglow.org
 0.0.0.0 a98dc034c7781a941eba-bac02262202668bbe918ea9fb5289cd2.r58.cf2.rackcdn.com
@@ -12007,6 +12025,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.cupid.qiyi.com
 0.0.0.0 api.d.xiaomi.com
 0.0.0.0 api.danmu.tv.sohu.com
+0.0.0.0 api.data-monitor.info
 0.0.0.0 api.dc1.exacttarget.com
 0.0.0.0 api.dc2.exacttarget.com
 0.0.0.0 api.dedipass.com
@@ -12598,6 +12617,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 appyaviator.com
 0.0.0.0 aprana.000webhostapp.com
 0.0.0.0 aprendainglesya.com.ve
+0.0.0.0 apresolve.spotify.com
 0.0.0.0 aproxtrack2.com
 0.0.0.0 aps.hearstnp.com
 0.0.0.0 aps.media.adrevolver.com
@@ -13376,6 +13396,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 audience2media.com
 0.0.0.0 audienceinsights.com
 0.0.0.0 audio-ec.spotify.com
+0.0.0.0 audio-fac.spotify.com
 0.0.0.0 audio-sp-sto.spotify.com
 0.0.0.0 audio.cl
 0.0.0.0 audio.de.intellitxt.com
@@ -17852,6 +17873,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c1.teaser-goods.ru
 0.0.0.0 c1.thecounter.com
 0.0.0.0 c1.thecounter.de
+0.0.0.0 c1.video-ak.cdn.spotify.com
 0.0.0.0 c1.wkanx.com
 0.0.0.0 c1.xgals.biz
 0.0.0.0 c1.xxxcounter.com
@@ -17894,6 +17916,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c2.tentaculos.net
 0.0.0.0 c2.thecounter.com
 0.0.0.0 c2.thecounter.de
+0.0.0.0 c2.video-ak.cdn.spotify.com
 0.0.0.0 c2.xxxcounter.com
 0.0.0.0 c2.zedo.com
 0.0.0.0 c20.smaato.net
@@ -17944,6 +17967,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c3.outster.com
 0.0.0.0 c3.statcounter.com
 0.0.0.0 c3.thecounter.com
+0.0.0.0 c3.video-ak.cdn.spotify.com
 0.0.0.0 c3.xxxcounter.com
 0.0.0.0 c3.zedo.com
 0.0.0.0 c30.smaato.net
@@ -17979,6 +18003,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c4.mysearch.com
 0.0.0.0 c4.myway.com
 0.0.0.0 c4.statcounter.com
+0.0.0.0 c4.video-ak.cdn.spotify.com
 0.0.0.0 c4.zedo.com
 0.0.0.0 c40.smaato.net
 0.0.0.0 c40.statcounter.com
@@ -18004,6 +18029,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c4tracking01.com
 0.0.0.0 c5.amazingcounters.com
 0.0.0.0 c5.statcounter.com
+0.0.0.0 c5.video-ak.cdn.spotify.com
 0.0.0.0 c5.zedo.com
 0.0.0.0 c50.smaato.net
 0.0.0.0 c51.smaato.net
@@ -18022,12 +18048,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 c6.edgesuite.net
 0.0.0.0 c6.friok.com
 0.0.0.0 c6.statcounter.com
+0.0.0.0 c6.video-ak.cdn.spotify.com
 0.0.0.0 c6.zedo.com
 0.0.0.0 c60.smaato.net
 0.0.0.0 c6530e.r.axf8.net
 0.0.0.0 c7.adforgeinc.com
 0.0.0.0 c7.amazingcounters.com
 0.0.0.0 c7.statcounter.com
+0.0.0.0 c7.video-ak.cdn.spotify.com
 0.0.0.0 c7.zedo.com
 0.0.0.0 c753738.r38.cf2.rackcdn.com
 0.0.0.0 c7e935.netlify.com
@@ -18035,11 +18063,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 c8.amazingcounters.com
 0.0.0.0 c8.net.ua
 0.0.0.0 c8.statcounter.com
+0.0.0.0 c8.video-ak.cdn.spotify.com
 0.0.0.0 c8.zedo.com
 0.0.0.0 c829aeaf4090c1289783-9ad4110c8011547ec25e241b917b5aab.r35.cf2.rackcdn.com
 0.0.0.0 c8hfxkywb7.ignition3.tv
 0.0.0.0 c9.amazingcounters.com
 0.0.0.0 c9.statcounter.com
+0.0.0.0 c9.video-ak.cdn.spotify.com
 0.0.0.0 ca-meds.com
 0.0.0.0 ca.2.cqcounter.com
 0.0.0.0 ca.5.p2l.info
@@ -21865,6 +21895,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 convertglobal.s3.amazonaws.com
 0.0.0.0 convertro.com
 0.0.0.0 convertwordtoexcel.com
+0.0.0.0 convhkmp.taboola.com
 0.0.0.0 convlatbmp.taboola.com
 0.0.0.0 convnjmp.basebanner.com
 0.0.0.0 convrse.media
@@ -23378,6 +23409,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d1.showself.com
 0.0.0.0 d1.sina.com.cn
 0.0.0.0 d1.sinaimg.cn
+0.0.0.0 d1.video-ak.cdn.spotify.com
 0.0.0.0 d1.windows8downloads.com
 0.0.0.0 d1.zedo.com
 0.0.0.0 d1.zhuangxiu6.com
@@ -23560,6 +23592,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d1zoiveqr7pf5b.cloudfront.net
 0.0.0.0 d1zwpjtdh4bi8u.cloudfront.net
 0.0.0.0 d2.sina.com.cn
+0.0.0.0 d2.video-ak.cdn.spotify.com
 0.0.0.0 d2.zedo.com
 0.0.0.0 d20ct0j8bz6fs5.cloudfront.net
 0.0.0.0 d20je219bs8hnq.cloudfront.net
@@ -23729,6 +23762,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d2zm90ue88koyl.cloudfront.net
 0.0.0.0 d3.sina.com.cn
 0.0.0.0 d3.sinaimg.cn
+0.0.0.0 d3.video-ak.cdn.spotify.com
 0.0.0.0 d3.zedo.com
 0.0.0.0 d30s0lx1onfwyh.cloudfront.net
 0.0.0.0 d30zrwt3s044zr.cloudfront.net
@@ -23898,12 +23932,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 d3vt0rqt08ph1x.cloudfront.net
 0.0.0.0 d4.cumshots.ws
 0.0.0.0 d4.sina.com.cn
+0.0.0.0 d4.video-ak.cdn.spotify.com
 0.0.0.0 d4.zedo.com
 0.0.0.0 d42tbok7l2bg1.cloudfront.net
 0.0.0.0 d49z64r3ud4kq.cloudfront.net
 0.0.0.0 d4n.platformd.com
 0.0.0.0 d4x.org
 0.0.0.0 d5.sina.com.cn
+0.0.0.0 d5.video-ak.cdn.spotify.com
 0.0.0.0 d5.zedo.com
 0.0.0.0 d55fgfgf.webcindario.com
 0.0.0.0 d5em5plenp2k5.cloudfront.net
@@ -23918,6 +23954,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d6.mobaders.com
 0.0.0.0 d6.sina.com.cn
 0.0.0.0 d6.sinaimg.cn
+0.0.0.0 d6.video-ak.cdn.spotify.com
 0.0.0.0 d6.zedo.com
 0.0.0.0 d60y8cj1tje2a.cloudfront.net
 0.0.0.0 d660441.u-telcom.net
@@ -23932,6 +23969,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d7.mobaders.com
 0.0.0.0 d7.sina.com.cn
 0.0.0.0 d7.sinaimg.cn
+0.0.0.0 d7.video-ak.cdn.spotify.com
 0.0.0.0 d7.zedo.com
 0.0.0.0 d720031.u-telcom.net
 0.0.0.0 d7gqsdo66itj3.cloudfront.net
@@ -23939,6 +23977,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d7t3qhxxipimh.cloudfront.net
 0.0.0.0 d8.sina.com.cn
 0.0.0.0 d8.sinaimg.cn
+0.0.0.0 d8.video-ak.cdn.spotify.com
 0.0.0.0 d8.zedo.com
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
@@ -23947,6 +23986,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d8x.pl
 0.0.0.0 d9.sina.com.cn
+0.0.0.0 d9.video-ak.cdn.spotify.com
 0.0.0.0 d9.zedo.com
 0.0.0.0 d925d6eb.amy.gs
 0.0.0.0 d989123.u-telcom.net
@@ -26749,6 +26789,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e.gglay.com
 0.0.0.0 e.gitpw.com
 0.0.0.0 e.gjshcn.com
+0.0.0.0 e.gxjfh.com
 0.0.0.0 e.hellomingpian.com
 0.0.0.0 e.htper.com
 0.0.0.0 e.hurnt.com
@@ -26806,6 +26847,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e1.cdn.qnsr.com
 0.0.0.0 e1.extreme-dm.com
 0.0.0.0 e1.static.hoptopboy.com
+0.0.0.0 e1.video-ak.cdn.spotify.com
 0.0.0.0 e1.zedo.com
 0.0.0.0 e100.yt.srs.doubleverify.com
 0.0.0.0 e101.yt.srs.doubleverify.com
@@ -26826,23 +26868,31 @@ ff02::3 ip6-allhosts
 0.0.0.0 e2.emediate.se
 0.0.0.0 e2.extreme-dm.com
 0.0.0.0 e2.molbuk.ua
+0.0.0.0 e2.video-ak.cdn.spotify.com
 0.0.0.0 e2.zedo.com
 0.0.0.0 e24dp.tns-cs.net
 0.0.0.0 e2b8u3v8.map2.ssl.hwcdn.net
 0.0.0.0 e3.adpushup.com
+0.0.0.0 e3.video-ak.cdn.spotify.com
 0.0.0.0 e32e0c3c972d179cd1d0-1847ac4c91d55b307d162b6d5ad07fe3.r71.cf2.rackcdn.com
 0.0.0.0 e35fbf.t.axf8.net
 0.0.0.0 e3f364.r.axf8.net
 0.0.0.0 e3yt5.at-band-camp.net
 0.0.0.0 e4.6dad.com
+0.0.0.0 e4.video-ak.cdn.spotify.com
 0.0.0.0 e45-cvb.cashixirbozdur.com
 0.0.0.0 e46fa8d94b17745ac277-ae524ab82d83e9108c081b44b53c4ff2.r94.cf2.rackcdn.com
 0.0.0.0 e4porn.com
+0.0.0.0 e5.video-ak.cdn.spotify.com
 0.0.0.0 e5a87pq.com
+0.0.0.0 e6.video-ak.cdn.spotify.com
 0.0.0.0 e65ew88.com
+0.0.0.0 e7.video-ak.cdn.spotify.com
 0.0.0.0 e705.net
 0.0.0.0 e77c.com
+0.0.0.0 e8.video-ak.cdn.spotify.com
 0.0.0.0 e89.friendfinder.com
+0.0.0.0 e9.video-ak.cdn.spotify.com
 0.0.0.0 e9p6pb.kozer.2ndincome4u.org.uk
 0.0.0.0 ea-dfw5.exacttarget.com
 0.0.0.0 ea.fleurancenature.fr
@@ -28965,6 +29015,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 f1.p0y.cn
 0.0.0.0 f1.p0y.com
 0.0.0.0 f1.pig66.com
+0.0.0.0 f1.video-ak.cdn.spotify.com
 0.0.0.0 f10.smaato.net
 0.0.0.0 f11.smaato.net
 0.0.0.0 f11098.privacy4browsers.com
@@ -28982,6 +29033,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 f1rstfuck.com
 0.0.0.0 f2.p0y.cn
 0.0.0.0 f2.p0y.com
+0.0.0.0 f2.video-ak.cdn.spotify.com
 0.0.0.0 f20.smaato.net
 0.0.0.0 f21.smaato.net
 0.0.0.0 f22.smaato.net
@@ -29001,6 +29053,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 f2nsmh.112.2o7.net
 0.0.0.0 f2ntheage.112.2o7.net
 0.0.0.0 f3.p0y.com
+0.0.0.0 f3.video-ak.cdn.spotify.com
 0.0.0.0 f30.smaato.net
 0.0.0.0 f31.smaato.net
 0.0.0.0 f32.smaato.net
@@ -29013,6 +29066,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 f38.smaato.net
 0.0.0.0 f39.smaato.net
 0.0.0.0 f4.p0y.com
+0.0.0.0 f4.video-ak.cdn.spotify.com
 0.0.0.0 f40.smaato.net
 0.0.0.0 f41.smaato.net
 0.0.0.0 f42.smaato.net
@@ -29024,6 +29078,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 f48.smaato.net
 0.0.0.0 f49.smaato.net
 0.0.0.0 f4dsbjhb45wfiuqeib4fkqeg.meccaledgy.at
+0.0.0.0 f5.video-ak.cdn.spotify.com
 0.0.0.0 f50.smaato.net
 0.0.0.0 f51.smaato.net
 0.0.0.0 f52.smaato.net
@@ -29040,9 +29095,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 f5mtrack.com
 0.0.0.0 f5wcr6.best.pershoretaxis.co.uk
 0.0.0.0 f5xraa2y2ybtrefz.onion.to
+0.0.0.0 f6.video-ak.cdn.spotify.com
 0.0.0.0 f60.smaato.net
+0.0.0.0 f7.video-ak.cdn.spotify.com
+0.0.0.0 f8.video-ak.cdn.spotify.com
 0.0.0.0 f8350e7c1.se
 0.0.0.0 f8b2b9.su
+0.0.0.0 f9.video-ak.cdn.spotify.com
 0.0.0.0 f9ezxc.wm.warmglow.org
 0.0.0.0 f9sk9y3mkq.bradul.creatory.org
 0.0.0.0 faacebok.pl
@@ -31713,6 +31772,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 g.adnxs.com
 0.0.0.0 g.adspeed.net
 0.0.0.0 g.adx.cc
+0.0.0.0 g.alicdn.com
 0.0.0.0 g.baidu.com
 0.0.0.0 g.bitauto.com
 0.0.0.0 g.blogads.com
@@ -32318,6 +32378,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gcirwjlmyfgxm.bid
 0.0.0.0 gclass.it
 0.0.0.0 gclavarino.000webhostapp.com
+0.0.0.0 gcm.ksmobile.com
 0.0.0.0 gcmapi.wshareit.com
 0.0.0.0 gcounter.hosting4u.net
 0.0.0.0 gcpdata.telegraph.co.uk
@@ -32970,6 +33031,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gjjsfchh.bid
 0.0.0.0 gjsqbsqawb.myfw.us
 0.0.0.0 gjtikylryey.000webhostapp.com
+0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 gjwqxjqdvtldbh.bid
 0.0.0.0 gk-atlant.info
 0.0.0.0 gk.rts.sparkstudios.com
@@ -33964,6 +34026,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 guardianlv.us.intellitxt.com
 0.0.0.0 guardlink.org
 0.0.0.0 guardzila.com
+0.0.0.0 guc3-accesspoint-b-bzqt.ap.spotify.com
+0.0.0.0 guc3-accesspoint-b-glr0.ap.spotify.com
 0.0.0.0 guccifer2.wordpress.com
 0.0.0.0 guccigang.com
 0.0.0.0 guccigrace.com
@@ -36660,6 +36724,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ilumigrafias.adriancugar.com
 0.0.0.0 iluv.clickbooth.com
 0.0.0.0 ilxhsgd.com
+0.0.0.0 ilyonanalytics.herokuapp.com
 0.0.0.0 ilz.000webhostapp.com
 0.0.0.0 im-x.jd.com
 0.0.0.0 im.800.com
@@ -37304,6 +37369,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 impressionz.co.uk
 0.0.0.0 impressoras-cartoes.com.pt
 0.0.0.0 imprezowiczki.qii.pl
+0.0.0.0 imprhkmp.taboola.com
 0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 improeventos.com.ve
 0.0.0.0 impru.tradedoubler.com
@@ -37367,6 +37433,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 in-appadvertising.com
 0.0.0.0 in-bulgaria.com
 0.0.0.0 in-cdn.effectivemeasure.net
+0.0.0.0 in-gmtdmp.mookie1.com
 0.0.0.0 in-mailling.com
 0.0.0.0 in-star.videoplaza.tv
 0.0.0.0 in-starlive-preroll.videoplaza.tv
@@ -37823,6 +37890,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 institut-ronflement.net
 0.0.0.0 institutomariadapenha.org.br
 0.0.0.0 instorm.com
+0.0.0.0 instory-log.ucnews.ucweb.com
 0.0.0.0 instruminahui.edu.ec
 0.0.0.0 instytut-pomocy.pl
 0.0.0.0 instytutmed.pl
@@ -39644,6 +39712,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kads.k-network.com
 0.0.0.0 kafarelasvineyard.com.au
 0.0.0.0 kaffee-forum.de
+0.0.0.0 kaffnet.com
 0.0.0.0 kafle.net.pl
 0.0.0.0 kahootcreate.it
 0.0.0.0 kahtanka.ru
@@ -42162,6 +42231,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 logs1204.xiti.com
 0.0.0.0 logs1242.xiti.com
 0.0.0.0 logs1285.xiti.com
+0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 logstat.caixin.com
 0.0.0.0 logua.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
@@ -56227,6 +56297,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rcv.mobad.ijinshan.com
 0.0.0.0 rcv.moogos.com
 0.0.0.0 rcv.union-wifi.com
+0.0.0.0 rcyy3.kaopuwangjz.com
 0.0.0.0 rd-direct.com
 0.0.0.0 rd.ads.juno.com
 0.0.0.0 rd.advertising.com
@@ -59210,6 +59281,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sdk.adincube.com
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 sdk.api.gamex.mobile.youku.com
+0.0.0.0 sdk.api.kaffnet.com
 0.0.0.0 sdk.api.xtify.com
 0.0.0.0 sdk.appadhoc.com
 0.0.0.0 sdk.appbrain.com
@@ -60923,6 +60995,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sg.eu-west-1.p.xpanama.net
 0.0.0.0 sg.eu.p.xpanama.net
 0.0.0.0 sg.geo.p.xpanama.net
+0.0.0.0 sg.mmstat.com
 0.0.0.0 sg.napi.ucweb.com
 0.0.0.0 sg.p.xpanama.net
 0.0.0.0 sg.us-east-1.p.xpanama.net
@@ -62777,6 +62850,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sprinks-clicks.about.com
 0.0.0.0 sprintglobal.112.2o7.net
 0.0.0.0 sprintusers.us.intellitxt.com
+0.0.0.0 spritemaps.scdn.co
 0.0.0.0 sprotect.ru
 0.0.0.0 sprttrack.com
 0.0.0.0 sps-shop.com
@@ -65029,6 +65103,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 systweak.com
 0.0.0.0 syvertsen-da.no
 0.0.0.0 sywhpe.net.a1traveldirect.co.uk
+0.0.0.0 sz-loc.ushareit.com
 0.0.0.0 sz.met.vgwort.de
 0.0.0.0 szalonenagrody.com
 0.0.0.0 szalonepromocje.com
@@ -70845,12 +70920,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 video-a.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 video-adserver.ibillboard.com
+0.0.0.0 video-ak.cdn.spotify.com
 0.0.0.0 video-assets.mathtag.com
 0.0.0.0 video-chat.cn
 0.0.0.0 video-chat.in
 0.0.0.0 video-chat.love
 0.0.0.0 video-download.info
 0.0.0.0 video-erotique.org
+0.0.0.0 video-fa.scdn.co
 0.0.0.0 video-game-rewards-central.com
 0.0.0.0 video-gay.biz
 0.0.0.0 video-hardcore.biz
@@ -76422,6 +76499,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.feixin2.com
 0.0.0.0 www.feiyang163.com
 0.0.0.0 www.fellent.eu
+0.0.0.0 www.fenqihome.com
 0.0.0.0 www.ferdls-kleinanzeigen.de
 0.0.0.0 www.fetisch-pornos.cxa.de
 0.0.0.0 www.feyads.com
@@ -77497,6 +77575,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.kniga.tora.ru
 0.0.0.0 www.koch-backrezepte.de
 0.0.0.0 www.komodia.com
+0.0.0.0 www.konimkan.com
 0.0.0.0 www.kontera.com
 0.0.0.0 www.konversation.com
 0.0.0.0 www.kowasaki.com
@@ -80837,6 +80916,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wx.houyi.baofeng.net
 0.0.0.0 wx.paigu.com
 0.0.0.0 wx.shunliandongli.com
+0.0.0.0 wxaw.tiantongmaoyi.com
 0.0.0.0 wxsnsdy.tc.qq.com
 0.0.0.0 wxsnsdy.video.qq.com
 0.0.0.0 wxwm1.ikuailian.com
