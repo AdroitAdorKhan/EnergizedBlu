@@ -1,23 +1,19 @@
-```
-NEW BUILD WILL BE DELAYED. DUE TO SOURCES UNAVAILABILITY! SORRY FOR THE INCONVENIENCE! 😔
-```
-
 ![Cover](https://ador.chorompotro.com/energized_blu_cover.svg)
 
 # Energized Blu - Hosts ⚡ [![Codenvy](https://img.shields.io/badge/Cloud-CodeAnyWhere-7F3F97.svg)](https://codeanywhere.com/) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/AdroitAdorKhan/Energized/blob/master/LICENSE)
 
 Lightweight versions of [Energized](https://github.com/AdroitAdorKhan/Energized) Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Hopefully, this will cover most of the bad sites and give you the best protection in a compact size ever!
 
-* Last Updated: **Jun 07, 2018**
-* Version: **18.06.158**
-* Total Entries: Blu - **237474** Go - **82662**
+* Last Updated: **Jun 08, 2018**
+* Version: **18.06.159**
+* Total Entries: Blu - **238115** Go - **82742**
 
 ## Source
 
 Package | RAW | TXT | Compressed | Flashable | Magisk | Windows BAT
 -----------|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
 Blu | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu) (6.0M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu.txt) (6.0M)| [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu.zip) (3.0M) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_android.zip) (2.1M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_magisk.zip) (1.6M) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_windows.zip) (1.6M)
-Blu go |  [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go) (2.3M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go.txt) (2.3M) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go.zip) (597K)| [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go_android.zip) (1.1M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go_magisk.zip) (603K) | -
+Blu go |  [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go) (2.3M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go.txt) (2.3M) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go.zip) (598K)| [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go_android.zip) (1.1M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go_magisk.zip) (604K) | -
 
 ## Mirror
 
