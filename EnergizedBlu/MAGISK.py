@@ -8,8 +8,8 @@ import datetime
 import os
 import time
 
-Blu = 'zip/Magisk/module.prop'
-Blu_go = 'zip_go/Magisk/module.prop'
+Blu = 'assets/Magisk/module.prop'
+Blu_go = 'assets_go/Magisk/module.prop'
 
 if not os.path.exists(os.path.dirname(Blu)):
 	os.makedirs(os.path.dirname(Blu))

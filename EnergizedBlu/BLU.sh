@@ -5,32 +5,32 @@
 BLU=https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu
 BLU_GO=https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go
  
-wget -O zip/Android/system/etc/hosts $BLU
-wget -O zip_go/Android/system/etc/hosts $BLU_GO
-wget -O zip/Magisk/system/etc/hosts $BLU
-wget -O zip_go/Magisk/system/etc/hosts $BLU_GO
-wget -O zip/Windows/hosts $BLU
-wget -O zip/Compressed/hosts $BLU
-wget -O zip_go/Compressed/hosts $BLU_GO
+wget -O assets/Android/system/etc/hosts $BLU
+wget -O assets_go/Android/system/etc/hosts $BLU_GO
+wget -O assets/Magisk/system/etc/hosts $BLU
+wget -O assets_go/Magisk/system/etc/hosts $BLU_GO
+wget -O assets/Windows/hosts $BLU
+wget -O assets/Compressed/hosts $BLU
+wget -O assets_go/Compressed/hosts $BLU_GO
 
-cd zip/Android
+cd assets/Android
 zip -9 -r ../../energized/blu_android.zip .
 cd ..
-cd ../zip/Magisk
+cd ../assets/Magisk
 zip -9 -r ../../energized/blu_magisk.zip .
 cd ..
-cd ../zip/Windows
+cd ../assets/Windows
 zip -9 -r ../../energized/blu_windows.zip .
 cd ..
-cd ../zip/Compressed
+cd ../assets/Compressed
 zip -9 -r ../../energized/blu.zip .
 cd ..
-cd ../zip_go/Android
+cd ../assets_go/Android
 zip -9 -r ../../energized/blu_go_android.zip .
 cd ..
-cd ../zip_go/Magisk
+cd ../assets_go/Magisk
 zip -9 -r ../../energized/blu_go_magisk.zip .
 cd ..
-cd ../zip_go/Compressed
+cd ../assets_go/Compressed
 zip -9 -r ../../energized/blu_go.zip .
 cd ..
