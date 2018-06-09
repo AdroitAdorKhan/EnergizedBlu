@@ -34,15 +34,15 @@ Sources = [
 	'https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/AdguardMobileSpyware.txt',
   'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/AdguardTracking.txt',
- 'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/AdguardTracking.txt', 'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/EasylistAdserver.txt',
+  'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/AdguardTracking.txt', 'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/EasylistAdserver.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/EasyPrivacySpecific.txt',
   'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/EasyPrivacyTracking.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEAds.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEMalvertising.txt',
-        'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEMalware.txt',
+  'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEMalware.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/Wally3K_Blacklist.txt',
   'https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt',
-'https://zerodot1.gitlab.io/CoinBlockerLists/hosts'
+  'https://zerodot1.gitlab.io/CoinBlockerLists/hosts'
 ]
 
 for Link in Sources:
@@ -64,7 +64,7 @@ for Link in Sources:
 print('[+] Removing duplicates and sorting...')
 List = sorted(list(set(List)))
 print('[+] Applying whitelist...')
-r = urllib.request.urlopen('https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/whitelist')
+r = urllib.request.urlopen('https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/whitelist')
 Whitelist = r.readlines()
 Whitelist = [x.decode('utf-8') for x in Whitelist]
 Whitelist = [x.strip() for x in Whitelist]
