@@ -6,7 +6,7 @@
 # Version: 18.06.160
 # Project Git: https://github.com/EnergizedProtection/EnergizedBlu
 # RAW Source: https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go
-# Last updated: Sat, 09 Jun 18 04:23:27
+# Last updated: Sat, 09 Jun 18 04:35:05
 # Total Domains: 83879
 
 
