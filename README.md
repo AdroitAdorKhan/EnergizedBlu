@@ -6,7 +6,7 @@ Lightweight versions of [Energized](https://github.com/AdroitAdorKhan/Energized)
 
 * Last Updated: **Jun 09, 2018**
 * Version: **18.06.160**
-* Total Entries: Blu - **238395** Go - **83879**
+* Total Entries: Blu - **238396** Go - **83879**
 
 ## Source
 
