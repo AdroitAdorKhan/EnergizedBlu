@@ -2,7 +2,7 @@
 # Energized - DNSMasq
 # Energized Blu DNSMasq & IPV6 DNSMasq
 #
-HOSTS_RAW=https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu
+HOSTS_RAW=https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu
 TMP_LOCATION=assets/DNSMasq
 
 wget $HOSTS_RAW -P $TMP_LOCATION 
