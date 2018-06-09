@@ -2,8 +2,8 @@
 # Energized - ZIP Creator
 # Energized Blu Android Flashable & Windows Bat Installer Creator
 #
-BLU=https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu
-BLU_GO=https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/EnergizedBlu/energized/blu_go
+BLU=https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu
+BLU_GO=https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go
  
 wget -O assets/Android/system/etc/hosts $BLU
 wget -O assets_go/Android/system/etc/hosts $BLU_GO
