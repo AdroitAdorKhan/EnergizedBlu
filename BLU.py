@@ -29,20 +29,19 @@ Sources = [
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/ZeusTracker.txt',
 	'https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts',
 	'https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser',
+  'https://zerodot1.gitlab.io/CoinBlockerLists/hosts',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/Spam404.txt',
 	'https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS',
 	'https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/AdguardMobileSpyware.txt',
-  'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/AdguardTracking.txt',
-  'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/AdguardTracking.txt', 'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/EasylistAdserver.txt',
+  'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/AdguardTracking.txt', 
+  'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/EasylistAdserver.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/EasyPrivacySpecific.txt',
   'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/EasyPrivacyTracking.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEAds.txt',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEMalvertising.txt',
   'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/DisconnectMEMalware.txt',
-	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/Wally3K_Blacklist.txt',
-  'https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt',
-  'https://zerodot1.gitlab.io/CoinBlockerLists/hosts'
+	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/Wally3K_Blacklist.txt'
 ]
 
 for Link in Sources:
