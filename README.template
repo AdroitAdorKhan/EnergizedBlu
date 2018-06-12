@@ -118,16 +118,21 @@ included:
 
 Host file source | Description | Home page | Raw hosts | License |
 -----------------|-------------|:---------:|:---------:|:---------:|
+adblock-nocoin-list | Block lists to prevent JavaScript miners | [LINK](https://github.com/hoshsadiq/adblock-nocoin-list/) | [RAW](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt) | MIT |
 AdguardFilters | AdGuard Ad Blocking Filters https://adguard.com/ |[LINK](https://github.com/AdguardTeam/AdguardFilters) | [RAWs](https://github.com/AdguardTeam/AdguardFilters) | CC BY-SA 3.0 |
 add.2o7Net | 2o7Net tracking sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) | GPLv3+ |
 add.Dead | Dead sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts) | GPLv3+ |
 add.Risk | Risk content sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts) | GPLv3+ |
 add.Spam | Spam sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts) | GPLv3+ |
 Anti-PopAds | Popads.net domains for use in adblock. |[LINK](https://github.com/Yhonay/antipopads/) | [RAW](https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts) | WTFPLv2 |
-CoinBlocker | Simple lists that can help prevent cryptomining in the browser or other applications |[LINK](https://github.com/ZeroDot1/CoinBlockerLists) | [RAW](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser) | AGPLv3 |Dawsey - Spam404 | Spam404 Lists. |[LINK](https://github.com/Dawsey21/Lists/) | [RAW](https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt) | UNKNOWN |
+CoinBlocker | A hostslist for administrators to prevent mining in networks. |[LINK](https://gitlab.com/ZeroDot1/CoinBlockerLists) | [RAW](https://zerodot1.gitlab.io/CoinBlockerLists/hosts) | AGPLv3 |
+CoinBlocker | Simple lists that can help prevent cryptomining in the browser or other applications |[LINK](https://gitlab.com/ZeroDot1/CoinBlockerLists) | [RAW](https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser) | AGPLv3 |
+Dawsey - Spam404 | Spam404 Lists. |[LINK](https://github.com/Dawsey21/Lists/) | [RAW](https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt) | UNKNOWN |
 Disconnect.me | Simple Malvertising. |[LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt) | GPLv3 |
 Disconnect.me | Simple Malware. |[LINK](https://github.com/disconnectme) | [RAW](https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt) | GPLv3 |
-DShield LOW | Suspicious domains on the internet. |[LINK](https://www.dshield.org/suspicious_domains.html) | [RAW](https://www.dshield.org/feeds/suspiciousdomains_Low.txt) | Non-Commercial with Attribution |
+DShield LOW | Suspicious domains on the internet. | [LINK](https://www.dshield.org/suspicious_domains.html) | [RAW](https://www.dshield.org/feeds/suspiciousdomains_Low.txt) | Non-Commercial with Attribution |
+Easylist | Easylist Ad filter list. | [LINK](https://easylist.to/) | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/EasylistAdserver.txt) | All Rights Reserved |
+EasyPrivacy | Tracking Blockings. | [LINK](https://easylist.to/) | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/EasyPrivacyTracking.txt) | All Rights Reserved |
 hBlock | Improve your security and privacy by blocking ads, tracking and malware domains. | [LINK](https://hblock.molinero.xyz/) | [RAW](https://hblock.molinero.xyz/hosts) | MIT |
 KADhosts | Fraud/adware/scam websites. |[LINK](https://github.com/azet12/KADhosts) | [RAW](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) | GPLv3 |
 MoaAB: Mother of All AD-BLOCKING |  Hosts file to block advertisements and trackers designed for Android | [LINK](https://forum.xda-developers.com/showthread.php?t=1916098) | [RAW](https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/adblock.mahakala.is/master/output/hosts/ACTIVE/hosts) | RESTRICTED |
