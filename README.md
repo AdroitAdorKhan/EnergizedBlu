@@ -7,11 +7,11 @@
     <img src="https://img.shields.io/badge/Version-18.06.163-blue.svg?longCache=true&style=flat-square"
       alt="18.06.163" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-_timestamp_-orange.svg?longCache=true&style=flat-square"
-      alt="Jun 12, 2018" />
+    <img src="https://img.shields.io/badge/Updated-Jun 12, 2018-orange.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-beta-yellow.svg?longCache=true&style=flat-square"
-      alt="Jun 12, 2018" />
+      alt="_time_stamp_" />
 </div>
 
 <div align="center">
