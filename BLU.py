@@ -1,9 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# Original script by ildoc @ https://github.com/ildoc/HostBlock
-# Copyright (c) 2018 games195 <games195dev@gmail.com>. Licensed under MIT License.
-# Thanks to @games195 for this amazing script.
+# Energized Blu 
 
 import urllib.request
 import datetime
