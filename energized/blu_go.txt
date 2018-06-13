@@ -3,11 +3,11 @@
 # https://ador.chorompotro.com
 
 # Energized Blu go - Energized Go!
-# Version: 18.06.163
+# Version: 18.06.164
 # Project Git: https://github.com/EnergizedProtection/EnergizedBlu
 # RAW Source: https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go
-# Last updated: Tue, 12 Jun 18 11:26:47
-# Total Domains: 83952
+# Last updated: Wed, 13 Jun 18 10:28:43
+# Total Domains: 83975
 
 
 # -================-Maintainer-================-
@@ -253,6 +253,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 10-euro-golf.de
 0.0.0.0 10.170.0.11.corp.returnpath.net
 0.0.0.0 10.im.cz
+0.0.0.0 10.video-ak.cdn.spotify.com
 0.0.0.0 100.1qingdao.com
 0.0.0.0 100.admin5.com
 0.0.0.0 100.pncdn.cn
@@ -612,6 +613,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 2.tuxi.com.cn
 0.0.0.0 2.up.qingdaonews.com
 0.0.0.0 20-yrs-1.info
+0.0.0.0 20.video-ak.cdn.spotify.com
 0.0.0.0 2000.2.links4trade.com
 0.0.0.0 2000greetings.com
 0.0.0.0 2001-007.com
@@ -865,6 +867,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 3.ssqzj.com
 0.0.0.0 3.up.qingdaonews.com
 0.0.0.0 30-day-change.com
+0.0.0.0 30.video-ak.cdn.spotify.com
 0.0.0.0 30001.hittail.com
 0.0.0.0 30073.api.swrve.com
 0.0.0.0 30073.content.swrve.com
@@ -1053,6 +1056,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4.whereintoscana.com
 0.0.0.0 4.whereintrentinoaltoadige.com
 0.0.0.0 40-sm.000webhostapp.com
+0.0.0.0 40.video-ak.cdn.spotify.com
 0.0.0.0 4002dbde88aebefdb1f7-8f93653c470e43727b1b565964867247.r51.cf2.rackcdn.com
 0.0.0.0 402428-de-storno-sicherheit-benutzer.vorkehrung-sicherheitssystem.ml
 0.0.0.0 403.hqhost.net
@@ -1329,6 +1333,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 5.eventiduepuntozero.com
 0.0.0.0 5.googlenews.xorg.pl
 0.0.0.0 5.hidemyass.com
+0.0.0.0 50.video-ak.cdn.spotify.com
 0.0.0.0 5000-cotydzien.com
 0.0.0.0 5000cotydzien.net
 0.0.0.0 500utflykter.se
@@ -1780,6 +1785,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 6.hidemyass.com
 0.0.0.0 6.mamaswishes.com
 0.0.0.0 6.spacepur.de
+0.0.0.0 60.video-ak.cdn.spotify.com
 0.0.0.0 6000518.com
 0.0.0.0 600co.info
 0.0.0.0 600z.com
@@ -1874,6 +1880,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 7.1tb.in
 0.0.0.0 7.duote.com.cn
 0.0.0.0 7.hidemyass.com
+0.0.0.0 70.video-ak.cdn.spotify.com
 0.0.0.0 700135--nutzung-sicher-validierung.vorkehrung-sicherheitssystem.ml
 0.0.0.0 709293-de-gast-sicher-benutzer.service-paypal-info.ml
 0.0.0.0 70news.wordpress.com
@@ -1978,6 +1985,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 8.dramafeverw2.appspot.com
 0.0.0.0 8.jrj.com
 0.0.0.0 8.jrj.com.cn
+0.0.0.0 80.video-ak.cdn.spotify.com
 0.0.0.0 8000plus.si
 0.0.0.0 801.tianya.cn
 0.0.0.0 801.tianyaui.com
@@ -2057,6 +2065,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 8ue9q7i.com
 0.0.0.0 8vnzz.super-promo.quhu.info
 0.0.0.0 8xv8.com
+0.0.0.0 90.video-ak.cdn.spotify.com
 0.0.0.0 9000videos.com
 0.0.0.0 909.09023.31698.minijozveh.ir
 0.0.0.0 90905.000webhostapp.com
@@ -2638,6 +2647,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at
 0.0.0.0 a6522.s3-website-us-east-1.amazonaws.com
 0.0.0.0 a6face-podgladacz.eu
+0.0.0.0 a6s.1cakeclub.com
 0.0.0.0 a6shd.realshieldlinked.com
 0.0.0.0 a7.suntimes.com
 0.0.0.0 a7.video-ak.cdn.spotify.com
@@ -12383,6 +12393,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 app-1521075927.000webhostapp.com
 0.0.0.0 app-1521405578.000webhostapp.com
 0.0.0.0 app-1521455031.000webhostapp.com
+0.0.0.0 app-1521917919.000webhostapp.com
 0.0.0.0 app-1522529856.000webhostapp.com
 0.0.0.0 app-1523958731.000webhostapp.com
 0.0.0.0 app-ab12.marketo.com
@@ -15363,6 +15374,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bdjs.58news.org
 0.0.0.0 bdjs.6237237.com
 0.0.0.0 bdjs.999d.com
+0.0.0.0 bdjs.guangyuanol.cn
 0.0.0.0 bdjs.itechwall.com
 0.0.0.0 bdjs.ixiumei.com
 0.0.0.0 bdjs.jb51.net
@@ -20685,6 +20697,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 click.ewebse.com
 0.0.0.0 click.exacttarget.com
 0.0.0.0 click.eyk.net
+0.0.0.0 click.fancywap.com
 0.0.0.0 click.findthewebsiteyouneed.com
 0.0.0.0 click.fivemtn.com
 0.0.0.0 click.fool.co.uk
@@ -29959,6 +29972,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fb-register68.hol.es
 0.0.0.0 fb-safety-2018.000webhostapp.com
 0.0.0.0 fb-safetyunblock.000webhostapp.com
+0.0.0.0 fb-secure-notifications-2018.000webhostapp.com
 0.0.0.0 fb-security-accont20022018.000webhostapp.com
 0.0.0.0 fb-szpieg.com
 0.0.0.0 fb-szpieguj.likesyou.org
@@ -40954,6 +40968,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kotikokki.spring-tns.net
 0.0.0.0 kotokit.000webhostapp.com
 0.0.0.0 koudas.alphonso.tv
+0.0.0.0 kouklaboutique.000webhostapp.com
 0.0.0.0 kowasaki.com
 0.0.0.0 kpalion.piwko.pl
 0.0.0.0 kperb3.gay.tathamservice.com
@@ -43382,6 +43397,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.dlx.addthis.com
 0.0.0.0 m.doodlemobile.com
 0.0.0.0 m.doubleclick.net
+0.0.0.0 m.dxectas1.cn
 0.0.0.0 m.ennmt.com
 0.0.0.0 m.exactag.com
 0.0.0.0 m.facebook.com-----------------secured----account---confirmation.rel360.com
@@ -43432,6 +43448,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.ishangtong.com
 0.0.0.0 m.jakc0.com
 0.0.0.0 m.jetbull.com
+0.0.0.0 m.jhcgood.com
 0.0.0.0 m.jltdbyq.com
 0.0.0.0 m.joyxv.com
 0.0.0.0 m.jsqinvest.com
@@ -43991,6 +44008,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mahoningvalleyspeedway.com
 0.0.0.0 mahrez.alphonso.tv
 0.0.0.0 maiaratiu.com
+0.0.0.0 maiicenterteam.000webhostapp.com
 0.0.0.0 mail-gw.jbic.go.jp
 0.0.0.0 mail.allnews24.in
 0.0.0.0 mail.avis.cm
@@ -53614,7 +53632,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 play.site.flashx.cc
 0.0.0.0 play.stream.vidzi.tv
 0.0.0.0 play.streaming.estream.to
-0.0.0.0 play.tainiesonline.pw
 0.0.0.0 play.traffpartners.com
 0.0.0.0 play.video.estream.nu
 0.0.0.0 play.video2.stream.vidzi.tv
@@ -56300,6 +56317,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 q.zeroredirect.com
 0.0.0.0 q07zjtl6t4he1wqmhxxd.viomil.ro
 0.0.0.0 q1mediahydraplatform.com
+0.0.0.0 q1scv.vov0.com
 0.0.0.0 q28840.nb.host127-0-0-1.com
 0.0.0.0 q2an8fheo7.ikejiwbe6i.madpendesign.com.au
 0.0.0.0 q5bkioqo9v.qfcrhdwg5x.madpendesign.com.au
@@ -56417,6 +56435,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qld10000.net
 0.0.0.0 qlipso.checkm8.com
 0.0.0.0 qlipsodigital.checkm8.com
+0.0.0.0 qlisv.siemens6es7.com
 0.0.0.0 qlmho.renhengshangmao.com
 0.0.0.0 qlog.adap.tv
 0.0.0.0 qlzwfzfatjth.ru
@@ -74545,6 +74564,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wqepoqpwo.bid
 0.0.0.0 wqgkainysj.ru
 0.0.0.0 wqh999.com
+0.0.0.0 wqqsa.puzihua.com
 0.0.0.0 wr.da.netease.com
 0.0.0.0 wrap.tradedoubler.com
 0.0.0.0 wrapper.askmen.com
@@ -77198,6 +77218,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.developer.fyber.com
 0.0.0.0 www.devis-abri-de-piscine.fr
 0.0.0.0 www.dex.k8s-test.fiksu.com
+0.0.0.0 www.dexchangeinc.com
 0.0.0.0 www.dezuiderwaard.nl
 0.0.0.0 www.dfujqyjifvoe.com
 0.0.0.0 www.dgfggy.com
@@ -81626,6 +81647,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.yieldmanager.net
 0.0.0.0 www.yieldpartners.com
 0.0.0.0 www.yieldtraffic.com
+0.0.0.0 www.yiluup.com
 0.0.0.0 www.yinooo.com
 0.0.0.0 www.yiqifa.com
 0.0.0.0 www.yiqixiu.com
@@ -82359,6 +82381,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xdr.fr
 0.0.0.0 xdrig.com
 0.0.0.0 xe9c7uzikm9s3pxdn1wf.maherstcottage.com.au
+0.0.0.0 xebadu.com
 0.0.0.0 xed.pl
 0.0.0.0 xeit.com
 0.0.0.0 xenec.stol.it
