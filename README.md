@@ -20,9 +20,6 @@
 <div align="center">
   Lightweight versions of <a href="https://github.com/AdroitAdorKhan/Energized" target="_blank"><Energized></a> Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Hopefully, this will cover most of the bad sites and give you the best protection in a compact size ever!
 </div>
-<div align="center">
-  <strong>Let's make an annoyance free better open internet, altogether!</strong>
-</div>
 
 <br />
 
@@ -151,6 +148,10 @@ Energized Blu is basically a `hosts` file to block access to domains. If you don
 [MIT](https://github.com/EnergizedProtection/EnergizedBlu/blob/master/LICENSE)
 
 ---
+
+<div align="center">
+  <h2>Let's make an annoyance free better open internet, altogether!</h2>
+</div>
 
 <p align="center"><sub>A project by <a href="https://github.com/AdroitAdorKhan" target="_blank">Ador</a> with ❤<p>
 
