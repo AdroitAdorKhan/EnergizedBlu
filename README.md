@@ -18,7 +18,7 @@
   <strong>Lightweight Energized Protection!</strong>
 </div>
 <div align="center">
-  Lightweight versions of <a href="https://github.com/AdroitAdorKhan/Energized" target="_blank"><Energized></a> Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Hopefully, this will cover most of the bad sites and give you the best protection in a compact size ever!
+  Lightweight versions of <a href="https://github.com/AdroitAdorKhan/Energized" target="_blank">Energized</a> Hosts. Main purpose of this version is to provide the best protection, compacting the size of the hosts file. Hopefully, this will cover most of the bad sites and give you the best protection in a compact size ever!
 </div>
 
 <br />
@@ -91,6 +91,16 @@ Blu go | **84141** |  [RAW](https://raw.githubusercontent.com/EnergizedProtectio
 
 **Expectation**: These unified hosts files should serve all devices, regardless
 of OS.
+
+## Extra Variants
+
+More variants to match your choices. Ex. `All-In-One Magisk Installer, Windows Uninstaller`
+
+Package | **Energized Magisk** | **Windows Uninstaller** | 
+---------:|:---------:|:---------:|
+Detail | All-In-One Energized Hosts Magisk Module. | Windows Hosts Uninstaller. |
+Repo | [LINK](https://github.com/EnergizedProtection/EnergizedMagisk) | - |
+Download | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Mirror/Magisk/EnergizedMagisk.zip) (10KB) | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Uninstaller/EnergizedUninstaller_Windows.zip) (1KB) |
 
 ## Mirror
 
