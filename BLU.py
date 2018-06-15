@@ -61,7 +61,7 @@ for Link in Sources:
 print('[+] Removing duplicates and sorting...')
 List = sorted(list(set(List)))
 print('[+] Applying whitelist...')
-r = urllib.request.urlopen('https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/whitelist')
+r = urllib.request.urlopen('https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedWhites')
 Whitelist = r.readlines()
 Whitelist = [x.decode('utf-8') for x in Whitelist]
 Whitelist = [x.strip() for x in Whitelist]
