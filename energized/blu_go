@@ -3,11 +3,11 @@
 # https://ador.chorompotro.com
 
 # Energized Blu go - Energized Go!
-# Version: 18.06.166
+# Version: 18.06.167
 # Project Git: https://github.com/EnergizedProtection/EnergizedBlu
 # RAW Source: https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go
-# Last updated: Fri, 15 Jun 18 18:17:12
-# Total Domains: 84141
+# Last updated: Sat, 16 Jun 18 11:38:43
+# Total Domains: 84138
 
 
 # -================-Maintainer-================-
@@ -31711,7 +31711,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 freenetflix.dlcodes.com
 0.0.0.0 freenew.net
 0.0.0.0 freenode.info
-0.0.0.0 freenom.link
 0.0.0.0 freenudes.nu
 0.0.0.0 freeoffers-toys.com
 0.0.0.0 freeolders.com
@@ -31939,7 +31938,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ft2.autonomycloud.com
 0.0.0.0 ftd-lan.de
 0.0.0.0 ftdownload.com
-0.0.0.0 fthmb.tqn.com
 0.0.0.0 ftimer.pl
 0.0.0.0 ftjcfx.com
 0.0.0.0 ftns.ru
@@ -42359,7 +42357,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 livehotwomen.com
 0.0.0.0 liveintent.com
 0.0.0.0 liveinternet.ro
-0.0.0.0 livejasmin.com
 0.0.0.0 livejasminhack.net
 0.0.0.0 livejasmins.info
 0.0.0.0 livejasmins.org
@@ -57478,7 +57475,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 redirectlnk.redirectme.net
 0.0.0.0 redirectme.net
 0.0.0.0 redirector.googlevideo.com
-0.0.0.0 redirector.gvt1.com
 0.0.0.0 redirector.themobilehub.net
 0.0.0.0 redirects.coldhardcash.com
 0.0.0.0 redirects.ero-advertising.com
@@ -64018,6 +64014,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 ssmklfrn.bid
 0.0.0.0 ssnhs.arete-energy.us
+0.0.0.0 sso.anbtr.com
 0.0.0.0 sso.canada.com
 0.0.0.0 ssp-rtb.sape.ru
 0.0.0.0 ssp.08160.cn
